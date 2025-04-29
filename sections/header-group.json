@@ -17,7 +17,7 @@
         "message_3b4nVt": {
           "type": "message",
           "settings": {
-            "text": "Voor 15:00 Besteld Morgen I",
+            "text": "Voor 15:00 Besteld Morgen In Huis",
             "url": ""
           }
         },
@@ -35,7 +35,7 @@
       ],
       "settings": {
         "enable_sticky": false,
-        "text_size": "text-xs",
+        "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
         "background": "#1a1a1a",
