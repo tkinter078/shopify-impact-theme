@@ -17,21 +17,29 @@
         "message_3b4nVt": {
           "type": "message",
           "settings": {
-            "text": "Voor 15:00 Besteld Morgen In Huis",
+            "text": "10 000+ Positive Customers",
             "url": ""
           }
         },
         "message": {
           "type": "message",
           "settings": {
-            "text": "Gratis Verzending",
+            "text": "24/7 Customer Support",
+            "url": ""
+          }
+        },
+        "message_MRmpQU": {
+          "type": "message",
+          "settings": {
+            "text": "#1 In Bags",
             "url": ""
           }
         }
       },
       "block_order": [
         "message_3b4nVt",
-        "message"
+        "message",
+        "message_MRmpQU"
       ],
       "settings": {
         "enable_sticky": false,
