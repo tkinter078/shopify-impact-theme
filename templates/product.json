@@ -31,7 +31,7 @@
         "liquid_hnebGx": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"product-review-rating\" style=\"display: flex; align-items: center; gap: 8px; margin-bottom: 1rem;\">\n  <div style=\"color: #FFA500; font-size: 1.2rem;\">\n    {% for i in (1..5) %}\n      {% if i <= 4 %}\n        ★\n      {% elsif i == 5 %}\n        ☆\n      {% endif %}\n    {% endfor %}\n  </div>\n  <div style=\"font-weight: 500; color: #333;\">\n    4.7 out of 5\n  </div>\n  <div style=\"color: #777; font-size: 0.95rem;\">\n    (1,000+ reviews)\n  </div>\n</div"
+            "liquid": "<ul class=\"product-highlights\" style=\"list-style: none; padding: 0; margin: 0;\">\n  <li style=\"display: flex; align-items: center; margin-bottom: 8px;\">\n    <img src=\"{{ 'almost-sold-out.svg' | asset_url }}\" alt=\"Almost Sold Out\" style=\"width: 16px; height: 16px; margin-right: 8px;\">\n    <strong>Almost Sold Out!</strong>\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 8px;\">\n    <img src=\"{{ 'royal-mail.svg' | asset_url }}\" alt=\"Free Delivery With Royal Mail\" style=\"width: 16px; height: 16px; margin-right: 8px;\">\n    Free Delivery With Royal Mail\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 8px;\">\n    <img src=\"{{ 'return-guarantee.svg' | asset_url }}\" alt=\"Return Guarantee\" style=\"width: 16px; height: 16px; margin-right: 8px;\">\n    100% Return Guarantee\n  </li>\n  <li style=\"display: flex; align-items: center;\">\n    <img src=\"{{ 'british-family.svg' | asset_url }}\" alt=\"British Family Business\" style=\"width: 16px; height: 16px; margin-right: 8px;\">\n    British Family Business Since 2005\n  </li>\n</ul>"
           }
         },
         "rating_zUq44a": {
@@ -72,6 +72,12 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "description_ig9jdz": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
         }
       },
       "block_order": [
@@ -84,7 +90,8 @@
         "separator_ELHiVM",
         "variant_picker_WjhRin",
         "quantity_selector_tVEEEk",
-        "buy_buttons"
+        "buy_buttons",
+        "description_ig9jdz"
       ],
       "settings": {
         "full_width": true,
@@ -104,11 +111,139 @@
         "input_text_color": ""
       }
     },
-    "related-products": {
+    "testimonials_niVQNi": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_KJx6A9": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_t4J7HN": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_GyRBq9": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_FEeGaC": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_KJx6A9",
+        "testimonial_t4J7HN",
+        "testimonial_GyRBq9",
+        "testimonial_FEeGaC"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "Testimonials",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "faq_cCKbb4": {
+      "type": "faq",
+      "blocks": {
+        "item_i4LLrW": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_qbPVDQ": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_BGWTg9": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_i4LLrW",
+        "item_qbPVDQ",
+        "item_BGWTg9"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "related_products_79JqHJ": {
       "type": "related-products",
+      "name": "Related products",
       "settings": {
         "recommendations_count": 6,
-        "products": [],
+        "products": [
+          "portable-cable-organizer-waterproof-storage-bag-for-power-bank-digital-cable-case-earphone-oxford-cloth-earphone-holder-case"
+        ],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
@@ -125,10 +260,54 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "image_with_text_overlay_prxRBJ": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_VTtJmn": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_UHiMUH": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text overlay",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_xCPmmE": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_VTtJmn",
+        "heading_UHiMUH",
+        "richtext_xCPmmE"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "testimonials_niVQNi",
+    "faq_cCKbb4",
+    "related_products_79JqHJ",
+    "image_with_text_overlay_prxRBJ"
   ]
 }
