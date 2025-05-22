@@ -18,6 +18,10 @@
             "heading_tag": "h3"
           }
         },
+        "badges_kVVNnN": {
+          "type": "badges",
+          "settings": {}
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -28,6 +32,12 @@
           "type": "liquid",
           "settings": {
             "liquid": "<div class=\"product-review-rating\" style=\"display: flex; align-items: center; gap: 8px; margin-bottom: 1rem;\">\n  <div style=\"color: #FFA500; font-size: 1.2rem;\">\n    {% for i in (1..5) %}\n      {% if i <= 4 %}\n        ★\n      {% elsif i == 5 %}\n        ☆\n      {% endif %}\n    {% endfor %}\n  </div>\n  <div style=\"font-weight: 500; color: #333;\">\n    4.7 out of 5\n  </div>\n  <div style=\"color: #777; font-size: 0.95rem;\">\n    (1,000+ reviews)\n  </div>\n</div"
+          }
+        },
+        "rating_zUq44a": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
           }
         },
         "text_yjN7Kx": {
@@ -67,8 +77,10 @@
       },
       "block_order": [
         "title",
+        "badges_kVVNnN",
         "price",
         "liquid_hnebGx",
+        "rating_zUq44a",
         "text_yjN7Kx",
         "buy_buttons",
         "offer_iCRPpT",

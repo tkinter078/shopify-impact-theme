@@ -55,7 +55,7 @@
         "collection": "",
         "products": [],
         "full_width": true,
-        "stack_products": true,
+        "stack_products": false,
         "show_progress_bar": false,
         "products_count": 6,
         "products_per_row_mobile": "2",
@@ -128,9 +128,9 @@
       "name": "Collection list",
       "settings": {
         "full_width": true,
-        "stack_collections": true,
+        "stack_collections": false,
         "collections_per_row": 3,
-        "show_progress_bar": false,
+        "show_progress_bar": true,
         "subheading": "",
         "title": "Collection list",
         "content": "",
@@ -182,19 +182,6 @@
     "image_with_text_overlay_PVQTdV": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "subheading_zDywez": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_jHjytB": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
         "richtext_Eazqmi": {
           "type": "richtext",
           "settings": {
@@ -203,8 +190,6 @@
         }
       },
       "block_order": [
-        "subheading_zDywez",
-        "heading_jHjytB",
         "richtext_Eazqmi"
       ],
       "name": "Image with text overlay",
@@ -319,7 +304,7 @@
         "full_width": true,
         "reduce_width": false,
         "desktop_row_height": 290,
-        "mobile_row_height": 150,
+        "mobile_row_height": 140,
         "background": "",
         "background_gradient": ""
       }
