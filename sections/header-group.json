@@ -31,7 +31,7 @@
         "message_MRmpQU": {
           "type": "message",
           "settings": {
-            "text": "#1 In Bags",
+            "text": "Based In London",
             "url": ""
           }
         }
@@ -46,7 +46,7 @@
         "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#000000",
         "background_gradient": "",
         "text_color": "#ffffff"
       }

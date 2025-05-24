@@ -82,6 +82,7 @@
           "type": "collection",
           "settings": {
             "collection": "luxury-series",
+            "image": "shopify://shop_images/1_3b8a7201-6cc7-4845-8c5b-4843ecc9b6e2.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -96,6 +97,7 @@
           "type": "collection",
           "settings": {
             "collection": "travel-series",
+            "image": "shopify://shop_images/2_e8527dea-6062-440f-8955-d8e4fd46635b.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -110,6 +112,7 @@
           "type": "collection",
           "settings": {
             "collection": "pouch-series",
+            "image": "shopify://shop_images/3_60c1bd23-60c8-452d-b0b2-1b56f015ed07.png",
             "subheading": "",
             "title": "",
             "url": "",
