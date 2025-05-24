@@ -198,6 +198,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/20250523_0729_London_Storefront_Signage_remix_01jvyw5rv9fvzbtbdd5eypzn7q.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
