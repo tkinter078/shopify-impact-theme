@@ -31,7 +31,7 @@
         "liquid_hnebGx": {
           "type": "liquid",
           "settings": {
-            "liquid": "<ul class=\"product-highlights\" style=\"list-style: none; padding: 0; margin: 0;\">\n  <li style=\"display: flex; align-items: center; margin-bottom: 8px;\">\n    <img src=\"{{ 'almost-sold-out.svg' | asset_url }}\" alt=\"Almost Sold Out\" style=\"width: 16px; height: 16px; margin-right: 8px;\">\n    <strong>Almost Sold Out!</strong>\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 8px;\">\n    <img src=\"{{ 'royal-mail.svg' | asset_url }}\" alt=\"Free Delivery With Royal Mail\" style=\"width: 16px; height: 16px; margin-right: 8px;\">\n    Free Delivery With Royal Mail\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 8px;\">\n    <img src=\"{{ 'return-guarantee.svg' | asset_url }}\" alt=\"Return Guarantee\" style=\"width: 16px; height: 16px; margin-right: 8px;\">\n    100% Return Guarantee\n  </li>\n  <li style=\"display: flex; align-items: center;\">\n    <img src=\"{{ 'british-family.svg' | asset_url }}\" alt=\"British Family Business\" style=\"width: 16px; height: 16px; margin-right: 8px;\">\n    British Family Business Since 2005\n  </li>\n</ul>"
+            "liquid": "{% comment %}\n  Custom Feature Highlights with Images\n{% endcomment %}\n\n<div class=\"custom-highlights\" style=\"padding: 1rem 0;\">\n  <ul style=\"list-style: none; padding: 0; margin: 0;\">\n    <li style=\"display: flex; align-items: center; margin-bottom: 12px;\">\n      <img src=\"https://images.seeklogo.com/logo-png/26/2/royal-mail-uk-logo-png_seeklogo-267922.png\" alt=\"Free Delivery\" style=\"width: 20px; height: 20px; margin-right: 10px;\">\n      Free Delivery with Royal Mail\n    </li>\n    <li style=\"display: flex; align-items: center; margin-bottom: 12px;\">\n      <img src=\"https://e7.pngegg.com/pngimages/652/411/png-clipart-product-return-policy-money-back-guarantee-computer-icons-return-angle-retail-thumbnail.png\" alt=\"Return Guarantee\" style=\"width: 20px; height: 20px; margin-right: 10px;\">\n      100% Return Guarantee\n    </li>\n    <li style=\"display: flex; align-items: center;\">\n      <img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/2560px-Flag_of_the_United_Kingdom_%281-2%29.svg.png\" alt=\"UK Flag\" style=\"width: 20px; height: 20px; margin-right: 10px;\">\n      British Family Business Since 2005\n    </li>\n  </ul>\n</div>"
           }
         },
         "rating_zUq44a": {
@@ -114,37 +114,15 @@
     "testimonials_niVQNi": {
       "type": "testimonials",
       "blocks": {
-        "testimonial_KJx6A9": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_t4J7HN": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
         "testimonial_GyRBq9": {
           "type": "testimonial",
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "rating": 5,
+            "author": "Sarah P. - London",
+            "title": "Stylish & Practical",
+            "content": "<p>“Finally, a bag that looks good and fits everything I need. Whether I’m at work or travelling, BarynBags has become my go-to.”</p>"
           }
         },
         "testimonial_FEeGaC": {
@@ -153,24 +131,46 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Mark R. - Edinburgh",
+            "title": "Trusted Family Brand",
+            "content": "<p>“I love supporting family businesses, especially when the quality is this high. Every product feels like it was made with care.”</p>"
+          }
+        },
+        "testimonial_t4J7HN": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "James H. - Bristol",
+            "title": "Fast Shipping & Great Service",
+            "content": "<p>“Ordered on a Monday and got a tracking number the next day! The packaging was lovely and customer service was super helpful. Definitely shopping here again.”</p>"
+          }
+        },
+        "testimonial_KJx6A9": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Emily T. -  Manchester",
+            "title": "Quality & Craftsmanship",
+            "content": "<p>“I was blown away by the craftsmanship and durability. You can feel the quality the moment you unbox it. BarynBags truly delivers premium products.”</p>"
           }
         }
       },
       "block_order": [
-        "testimonial_KJx6A9",
-        "testimonial_t4J7HN",
         "testimonial_GyRBq9",
-        "testimonial_FEeGaC"
+        "testimonial_FEeGaC",
+        "testimonial_t4J7HN",
+        "testimonial_KJx6A9"
       ],
       "name": "Testimonials",
       "settings": {
         "full_width": true,
         "stack_testimonials": false,
         "subheading": "",
-        "title": "Testimonials",
+        "title": "Customer Reviews",
         "content": "",
         "link_url": "",
         "link_text": "",
