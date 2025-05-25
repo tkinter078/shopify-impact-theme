@@ -147,29 +147,29 @@
         "heading_gradient": ""
       }
     },
-    "impact_text_xFqPmD": {
+    "impact_text_8mVm9Q": {
       "type": "impact-text",
       "blocks": {
-        "item_fnbn68": {
+        "item_rxUrJE": {
           "type": "item",
           "settings": {
-            "title": "92% Happy Customers",
-            "subheading": "Showcase a benefit of your product",
+            "title": "100% Quality",
+            "subheading": "",
             "content": "",
             "button_text": "",
             "button_url": "",
-            "animate_impact_text": false,
+            "animate_impact_text": true,
             "animate_impact_text_duration": 2
           }
         }
       },
       "block_order": [
-        "item_fnbn68"
+        "item_rxUrJE"
       ],
       "name": "Impact text",
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
+        "stack_mobile": false,
         "text_alignment": "center",
         "impact_text_style": "fill",
         "text_divider": "none",
@@ -372,7 +372,7 @@
     "slideshow",
     "featured_collection_MaxKbr",
     "collection_list_UVCLi3",
-    "impact_text_xFqPmD",
+    "impact_text_8mVm9Q",
     "image_with_text_overlay_PVQTdV",
     "media_grid_A6dQA9",
     "faq_7MGxVR"
