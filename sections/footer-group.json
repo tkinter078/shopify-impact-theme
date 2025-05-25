@@ -114,8 +114,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "About BARYNBAGS",
+            "content": "<p>At BARYNBAGS, we design bags that move with you. Whether you're commuting, traveling, or simply living life on the go. Combining style, practicality, and quality materials, our collections are made to keep up with your everyday journey. Proudly built for modern life with timeless design.</p>",
             "enable_follow_on_shop": true
           }
         }
