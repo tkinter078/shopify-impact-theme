@@ -216,9 +216,10 @@
         "image_PkjNJG": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/customer-support-staff-ready-for-work.jpg",
+            "title": "Contact Us",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://pages/contact",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
@@ -237,9 +238,10 @@
         "image_BpjnEk": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/shipping-boxes-on-trolly-close-up.jpg",
+            "title": "Track Order",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "https://www.barynbags.com/apps/track123",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
@@ -258,7 +260,8 @@
         "image_nCUhJt": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/social-media-on-cell-phone.jpg",
+            "title": "Social Media",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
