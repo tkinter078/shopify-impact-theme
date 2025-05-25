@@ -93,7 +93,7 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
+            "title": "Sign up for exclusive deals.",
             "content": ""
           }
         },
@@ -114,8 +114,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About BARYNBAGS",
-            "content": "<p>At BARYNBAGS, we design bags that move with you. Whether you're commuting, traveling, or simply living life on the go. Combining style, practicality, and quality materials, our collections are made to keep up with your everyday journey. Proudly built for modern life with timeless design.</p>",
+            "title": "Opening Hours",
+            "content": "<p>Monday: 09:00 – 17:00<br/><br/>Tuesday: 09:00 – 17:00<br/><br/>Wednesday: 09:00 – 17:00<br/><br/>Thursday: 09:00 – 17:00<br/><br/>Friday: 09:00 – 17:00<br/><br/>Saturday: Closed<br/><br/>Sunday: Closed<br/><br/></p>",
             "enable_follow_on_shop": true
           }
         }

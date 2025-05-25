@@ -62,7 +62,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "BestSellers",
+        "title": "Our Best Sellers",
         "content": "",
         "link_url": "",
         "link_text": "View all",
@@ -136,7 +136,7 @@
         "collections_per_row": 3,
         "show_progress_bar": true,
         "subheading": "",
-        "title": "Collection list",
+        "title": "BARYNBAGS Series",
         "content": "",
         "link_url": "",
         "link_text": "View all",
@@ -153,7 +153,7 @@
         "item_fnbn68": {
           "type": "item",
           "settings": {
-            "title": "92% 4 star",
+            "title": "92% Happy Customers",
             "subheading": "Showcase a benefit of your product",
             "content": "",
             "button_text": "",
