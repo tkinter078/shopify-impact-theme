@@ -73,6 +73,12 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_CjfgRy": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "{% assign ship_date = 'now' | date: \"%B %e\" %}\n\n<div style=\"display: flex; justify-content: center; align-items: center; gap: 32px; margin-top: 12px; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; text-align: center;\">\n\n  <!-- Shipping Date -->\n  <div style=\"display: flex; align-items: center;\">\n    <span style=\"display: inline-block; width: 10px; height: 10px; background-color: green; border-radius: 50%; margin-right: 6px;\"></span>\n    Ships {{ ship_date }}\n  </div>\n\n  <!-- Royal Mail -->\n  <div style=\"display: flex; align-items: center;\">\n    <img src=\"{{ 'uk-flag-icon.svg' | asset_url }}\" alt=\"UK Flag\" style=\"width: 16px; height: 16px; margin-right: 6px;\">\n    Royal Mail\n  </div>\n\n</div>"
+          }
+        },
         "description_ig9jdz": {
           "type": "description",
           "settings": {
@@ -91,6 +97,7 @@
         "variant_picker_WjhRin",
         "quantity_selector_tVEEEk",
         "buy_buttons",
+        "liquid_CjfgRy",
         "description_ig9jdz"
       ],
       "settings": {
@@ -117,6 +124,7 @@
         "testimonial_GyRBq9": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-05-21_083029.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -170,7 +178,7 @@
         "full_width": true,
         "stack_testimonials": false,
         "subheading": "",
-        "title": "Customer Reviews",
+        "title": "Customer experiences with BARYNBAGS",
         "content": "",
         "link_url": "",
         "link_text": "",
@@ -189,14 +197,14 @@
         "item_i4LLrW": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
+            "title": "Shipping",
             "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
           }
         },
         "item_qbPVDQ": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
+            "title": "Returns",
             "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
           }
         },
@@ -204,7 +212,7 @@
           "type": "item",
           "settings": {
             "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "content": "<p>You can contact us through our <a href=\"/pages/contact\" title=\"Contact\">contact</a> page! We will be happy to assist you.</p>"
           }
         }
       },
@@ -217,8 +225,8 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "title": "Frequently Asked Questions",
+        "content": "<p><em>We answer all your questions!</em></p>",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
