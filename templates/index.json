@@ -54,7 +54,13 @@
       "name": "Featured collection",
       "settings": {
         "collection": "travel-series",
-        "products": [],
+        "products": [
+          "barynbags-travel-series",
+          "bagsmart-travel-duffel-bag-gym-bag-for-women-with-wet-pocket-carry-on-weekender-shoulder-boston-bag-waterproof-beach-bags",
+          "barynbags-carry-all-tote",
+          "barynbags-city-daypack",
+          "barynbags-urban-sport-carry-bag"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
