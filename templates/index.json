@@ -269,7 +269,7 @@
             "image": "shopify://shop_images/create-a-contact-page-image.png",
             "title": "Contact",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "https://www.barynbags.com/pages/contact",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 1,
