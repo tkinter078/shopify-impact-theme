@@ -217,13 +217,13 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/customer-support-staff-ready-for-work.jpg",
-            "title": "Contact Us",
+            "title": "Sale: up to 40% off",
             "heading_tag": "h4",
             "link_url": "shopify://pages/contact",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
-            "desktop_row_span": 1,
+            "desktop_row_span": 2,
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "background": "#000000",
             "background_gradient": "",
@@ -239,13 +239,13 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/shipping-boxes-on-trolly-close-up.jpg",
-            "title": "Track Order",
+            "title": "About us",
             "heading_tag": "h4",
             "link_url": "https://www.barynbags.com/apps/track123",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "background": "#000000",
             "background_gradient": "",
@@ -261,12 +261,12 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/social-media-on-cell-phone.jpg",
-            "title": "Social Media",
+            "title": "Contact",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
+            "desktop_column_span": 1,
             "desktop_row_span": 1,
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "background": "#000000",
@@ -282,13 +282,13 @@
         "image_6cDc6h": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "title": "Work with us",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
-            "desktop_row_span": 2,
+            "desktop_row_span": 1,
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "background": "#000000",
             "background_gradient": "",
@@ -324,14 +324,14 @@
           "type": "item",
           "settings": {
             "title": "Shipping",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "content": "<p>Orders are processed within 24 hours </p><p>(Monday to Friday). Please allow 7–12 business days for delivery, depending on your location.</p>"
           }
         },
         "item_bp7GQU": {
           "type": "item",
           "settings": {
             "title": "Returning",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "content": "<p>Not quite right? No problem.<br/><br/>You have <strong>30 days</strong> to return your item unused and in original condition for a refund or exchange.</p>"
           }
         },
         "item_UGTrkD": {
@@ -354,7 +354,7 @@
         "title": "FAQ",
         "content": "<p>Use this text to share information about your product or shipping policies.</p>",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "support_hours": "Our customer support is available Monday to Friday",
         "answer_time": "Average answer time: 24h",
         "button_text": "",
         "button_url": "",
