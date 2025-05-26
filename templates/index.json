@@ -225,7 +225,7 @@
             "image": "shopify://shop_images/piclumen-1748277623278.png",
             "title": "Sale: up to 40% off",
             "heading_tag": "h4",
-            "link_url": "shopify://pages/contact",
+            "link_url": "shopify://collections",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
