@@ -337,7 +337,7 @@
         "item_UGTrkD": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
+            "title": "Any Questions?",
             "content": "<p>You can contact us through our<a href=\"/pages/contact\" title=\"Contact\"> contact page!</a> We will be happy to assist you.</p>"
           }
         }
