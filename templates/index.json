@@ -323,14 +323,14 @@
         "item_Ufy9Kz": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
+            "title": "Shipping",
             "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
           }
         },
         "item_bp7GQU": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
+            "title": "Returning",
             "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
           }
         },
