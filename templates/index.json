@@ -338,13 +338,13 @@
           "type": "item",
           "settings": {
             "title": "Returning",
-            "content": "<p>Not quite right? No problem.<br/><br/>You have <strong>30 days</strong> to return your item unused and in original condition for a refund or exchange.</p>"
+            "content": "<p>Not quite right? No problem.<br/><br/>You have <strong>30 days</strong> to return your item unused and in original condition for a refund or exchange.</p><p>Check our<a href=\"/policies/refund-policy\" title=\"Refund Policy\"> Returning policy</a> for more information</p>"
           }
         },
         "item_UGTrkD": {
           "type": "item",
           "settings": {
-            "title": "Any Questions?",
+            "title": "Other Questions?",
             "content": "<p>You can contact us through our<a href=\"/pages/contact\" title=\"Contact\"> contact page!</a> We will be happy to assist you.</p>"
           }
         }
@@ -359,7 +359,7 @@
         "full_width": true,
         "subheading": "",
         "title": "Frequently Asked Questions",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "<p><em>We answer all your questions!</em></p>",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday",
         "answer_time": "Average answer time: 24h",
