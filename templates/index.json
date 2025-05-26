@@ -169,10 +169,10 @@
       "name": "Impact text",
       "settings": {
         "full_width": true,
-        "stack_mobile": false,
+        "stack_mobile": true,
         "text_alignment": "center",
         "impact_text_style": "fill",
-        "text_divider": "none",
+        "text_divider": "line",
         "impact_text_size_ratio": 1,
         "background": "",
         "background_gradient": "",
@@ -189,7 +189,7 @@
         "richtext_Eazqmi": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><strong>Based in Canterbury</strong></p>"
           }
         }
       },
@@ -202,7 +202,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/20250523_0729_London_Storefront_Signage_remix_01jvyw5rv9fvzbtbdd5eypzn7q.png",
+        "image": "shopify://shop_images/Ontwerp_zonder_titel_4.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -216,7 +216,7 @@
         "image_PkjNJG": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/customer-support-staff-ready-for-work.jpg",
+            "image": "shopify://shop_images/piclumen-1748277623278.png",
             "title": "Sale: up to 40% off",
             "heading_tag": "h4",
             "link_url": "shopify://pages/contact",
@@ -238,7 +238,7 @@
         "image_BpjnEk": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/shipping-boxes-on-trolly-close-up.jpg",
+            "image": "shopify://shop_images/customer-in-face-mask-smiles-and-holds-white-shopping-bags.jpg",
             "title": "About us",
             "heading_tag": "h4",
             "link_url": "https://www.barynbags.com/apps/track123",
@@ -260,7 +260,7 @@
         "image_nCUhJt": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/social-media-on-cell-phone.jpg",
+            "image": "shopify://shop_images/create-a-contact-page-image.png",
             "title": "Contact",
             "heading_tag": "h4",
             "link_url": "",
@@ -282,6 +282,7 @@
         "image_6cDc6h": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Ontwerp_zonder_titel_4.png",
             "title": "Work with us",
             "heading_tag": "h4",
             "link_url": "",
