@@ -129,7 +129,7 @@
           "type": "text",
           "settings": {
             "title": "Opening Hours",
-            "content": "<p><strong>Business Hours:</strong></p><p><strong>Monday – Friday:</strong> 9:00 AM – 5:00 PM<br/><strong>Saturday & Sunday:</strong> Closed<br/></p><p><strong>Customer Service:</strong> Available 24/7</p><p>info@barynbags.com<br/></p>",
+            "content": "<p><strong>Business Hours:</strong></p><p><strong>Monday – Friday:</strong> 9:00 AM – 5:00 PM<br/><strong>Saturday & Sunday:</strong> Closed<br/></p><p><strong>Customer Service:</strong> Available 24/7</p><p>info@barynbags.com</p><p>Check our socials ↓<br/></p>",
             "enable_follow_on_shop": true
           }
         }
