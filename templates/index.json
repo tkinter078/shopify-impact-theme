@@ -15,12 +15,13 @@
         "image_XGcJLa": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design.png",
+            "image": "shopify://shop_images/New_collection.png",
+            "mobile_image": "shopify://shop_images/Ontwerp_zonder_titel_7.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Based In Canterbury",
-            "title": "BARYNBAGS",
+            "subheading": "",
+            "title": "",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
