@@ -124,7 +124,7 @@
         "testimonial_GyRBq9": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-05-21_083029.png",
+            "image": "shopify://shop_images/4_f12efde2-4ffb-4f57-bf1a-7b074bda237c.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -136,6 +136,7 @@
         "testimonial_FEeGaC": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/3_9994591c-a51a-41e2-9787-dc4f611ce36e.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
@@ -147,6 +148,7 @@
         "testimonial_t4J7HN": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/1_f709f17a-a1a9-4df1-a0b1-449a96e8f96a.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -158,6 +160,7 @@
         "testimonial_KJx6A9": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/2_ddd059d5-0211-44a2-8f68-1864589e2ef2.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
@@ -191,35 +194,35 @@
         "testimonial_card_text_color": ""
       }
     },
-    "faq_cCKbb4": {
+    "faq_4PY7Xf": {
       "type": "faq",
       "blocks": {
-        "item_i4LLrW": {
+        "item_yFwdhP": {
           "type": "item",
           "settings": {
             "title": "Shipping",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "content": "<p>Orders are processed within 24 hours </p><p>(Monday to Friday). Delivery times may vary depending on your location.</p><p>Check our <a href=\"/policies/shipping-policy\" title=\"Shipping Policy\">shipping policy</a> for more information.</p>"
           }
         },
-        "item_qbPVDQ": {
+        "item_aVTqdd": {
           "type": "item",
           "settings": {
-            "title": "Returns",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Returning",
+            "content": "<p>Not quite right? No problem.<br/><br/>You have <strong>30 days</strong> to return your item unused and in original condition for a refund or exchange.</p><p>Check our<a href=\"/policies/refund-policy\" title=\"Refund Policy\"> Returning policy</a> for more information</p>"
           }
         },
-        "item_BGWTg9": {
+        "item_zhrymn": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our <a href=\"/pages/contact\" title=\"Contact\">contact</a> page! We will be happy to assist you.</p>"
+            "title": "Other Questions?",
+            "content": "<p>You can contact us through our<a href=\"/pages/contact\" title=\"Contact\"> contact page!</a> We will be happy to assist you.</p>"
           }
         }
       },
       "block_order": [
-        "item_i4LLrW",
-        "item_qbPVDQ",
-        "item_BGWTg9"
+        "item_yFwdhP",
+        "item_aVTqdd",
+        "item_zhrymn"
       ],
       "name": "FAQ",
       "settings": {
@@ -228,7 +231,7 @@
         "title": "Frequently Asked Questions",
         "content": "<p><em>We answer all your questions!</em></p>",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "support_hours": "Our customer support is available Monday to Friday",
         "answer_time": "Average answer time: 24h",
         "button_text": "",
         "button_url": "",
@@ -250,10 +253,12 @@
       "settings": {
         "recommendations_count": 6,
         "products": [
-          "portable-cable-organizer-waterproof-storage-bag-for-power-bank-digital-cable-case-earphone-oxford-cloth-earphone-holder-case"
+          "barynbags-carry-all-tote",
+          "barynbags-city-daypack",
+          "bagsmart-travel-duffel-bag-gym-bag-for-women-with-wet-pocket-carry-on-weekender-shoulder-boston-bag-waterproof-beach-bags"
         ],
         "full_width": true,
-        "stack_products": true,
+        "stack_products": false,
         "show_progress_bar": false,
         "products_per_row_mobile": "1",
         "products_per_row_desktop": 3,
@@ -269,33 +274,18 @@
         "product_card_text_color": ""
       }
     },
-    "image_with_text_overlay_prxRBJ": {
+    "image_with_text_overlay_7P3MYj": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "subheading_VTtJmn": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_UHiMUH": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_xCPmmE": {
+        "richtext_fTw3Py": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><strong>Based in Canterbury</strong></p>"
           }
         }
       },
       "block_order": [
-        "subheading_VTtJmn",
-        "heading_UHiMUH",
-        "richtext_xCPmmE"
+        "richtext_fTw3Py"
       ],
       "name": "Image with text overlay",
       "settings": {
@@ -303,6 +293,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Ontwerp_zonder_titel_4.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -314,8 +305,8 @@
   "order": [
     "main",
     "testimonials_niVQNi",
-    "faq_cCKbb4",
+    "faq_4PY7Xf",
     "related_products_79JqHJ",
-    "image_with_text_overlay_prxRBJ"
+    "image_with_text_overlay_7P3MYj"
   ]
 }
