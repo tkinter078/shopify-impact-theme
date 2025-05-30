@@ -37,6 +37,8 @@
     "heading_apparition": "split_fade",
     "product_color_display": "swatch",
     "product_info_alignment": "start",
+    "cart_show_free_shipping_threshold": true,
+    "cart_free_shipping_threshold": 50,
     "social_facebook": "https://www.facebook.com/profile.php?id=61576612954651",
     "social_instagram": "https://www.instagram.com/barynbags/",
     "checkout_accent_color": "#f0c417",
@@ -45,11 +47,6 @@
     "blocks": {
       "17198465164502963513": {
         "type": "shopify://apps/parcel-panel/blocks/app.embed/fc785c3f-90e0-4c98-a20c-7cde9ba5e4b5",
-        "disabled": false,
-        "settings": {}
-      },
-      "13372541880985386961": {
-        "type": "shopify://apps/low-stock-counter/blocks/app-embed-block/c0e4a7d7-acc3-497b-80aa-b72cf8156ac3",
         "disabled": false,
         "settings": {}
       }
