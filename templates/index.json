@@ -15,8 +15,6 @@
         "image_XGcJLa": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/New_collection.png",
-            "mobile_image": "shopify://shop_images/Ontwerp_zonder_titel_7.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -56,11 +54,11 @@
       "settings": {
         "collection": "travel-series",
         "products": [
-          "barynbags-travel-series",
-          "barynbags-carry-all-tote",
-          "barynbags-city-daypack",
-          "barynbags-urban-sport-carry-bag",
-          "bagsmart-travel-duffel-bag-gym-bag-for-women-with-wet-pocket-carry-on-weekender-shoulder-boston-bag-waterproof-beach-bags"
+          "snooze-night-gummies",
+          "snooze-night-capsules",
+          "trim-burn-diet-drops",
+          "glow-anti-aging-moisturizer-sensitive-skin",
+          "balm-calm"
         ],
         "full_width": true,
         "stack_products": false,
@@ -89,7 +87,6 @@
           "type": "collection",
           "settings": {
             "collection": "luxury-series",
-            "image": "shopify://shop_images/1_3b8a7201-6cc7-4845-8c5b-4843ecc9b6e2.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -104,7 +101,6 @@
           "type": "collection",
           "settings": {
             "collection": "travel-series",
-            "image": "shopify://shop_images/2_e8527dea-6062-440f-8955-d8e4fd46635b.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -119,7 +115,6 @@
           "type": "collection",
           "settings": {
             "collection": "pouch-series",
-            "image": "shopify://shop_images/3_60c1bd23-60c8-452d-b0b2-1b56f015ed07.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -209,8 +204,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Ontwerp_zonder_titel_9.png",
-        "mobile_image": "shopify://shop_images/Ontwerp_zonder_titel_8.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -224,7 +217,6 @@
         "image_PkjNJG": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/piclumen-1748277623278.png",
             "title": "Sale: up to 40% off",
             "heading_tag": "h4",
             "link_url": "shopify://collections/travel-series",
@@ -246,7 +238,6 @@
         "image_BpjnEk": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/customer-in-face-mask-smiles-and-holds-white-shopping-bags.jpg",
             "title": "About us",
             "heading_tag": "h4",
             "link_url": "https://www.barynbags.com/pages/about-us",
@@ -268,7 +259,6 @@
         "image_nCUhJt": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/create-a-contact-page-image.png",
             "title": "Contact",
             "heading_tag": "h4",
             "link_url": "https://www.barynbags.com/pages/contact",
@@ -290,7 +280,6 @@
         "image_6cDc6h": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Ontwerp_zonder_titel_4.png",
             "title": "Work with us",
             "heading_tag": "h4",
             "link_url": "https://www.barynbags.com/pages/work-with-us",
