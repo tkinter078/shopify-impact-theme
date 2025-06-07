@@ -15,7 +15,8 @@
         "image_jhGmRh": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Een_subtitel_toevoegen_1.png",
+            "image": "shopify://shop_images/Een_subtitel_toevoegen_1_559fb4cb-ecef-48b2-922c-a0e401f1abc7.png",
+            "mobile_image": "shopify://shop_images/Ontwerp_zonder_titel_4.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -80,8 +81,8 @@
         "image_XGcJLa"
       ],
       "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
+        "full_width": true,
+        "allow_transparent_header": true,
         "image_size": "lg",
         "controls_type": "numbers",
         "transition_type": "fade_with_text",
@@ -91,100 +92,76 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "featured_collection_MaxKbr": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "travel-series",
-        "products": [
-          "snooze-night-gummies",
-          "snooze-night-capsules",
-          "trim-burn-diet-drops",
-          "glow-anti-aging-moisturizer-sensitive-skin",
-          "balm-calm"
-        ],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Our Best Sellers",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
-    "collection_list_UVCLi3": {
-      "type": "collection-list",
+    "image_link_blocks_4Rmem8": {
+      "type": "image-link-blocks",
       "blocks": {
-        "collection_QQyqwt": {
-          "type": "collection",
+        "item_Ygxcm9": {
+          "type": "item",
           "settings": {
-            "collection": "snooze",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
+            "image": "shopify://shop_images/SWIFTSUPPLE_3.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
-        "collection_d34Bcx": {
-          "type": "collection",
+        "item_tUxWmE": {
+          "type": "item",
           "settings": {
-            "collection": "travel-series",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
+            "image": "shopify://shop_images/2_0dd49ae4-bed8-43b4-859a-9d8d67f94979.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
-        "collection_hG3VK6": {
-          "type": "collection",
+        "item_jDbwDi": {
+          "type": "item",
           "settings": {
-            "collection": "pouch-series",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
+            "image": "shopify://shop_images/SWIFTSUPPLE_4.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
+          }
+        },
+        "item_Wni7yk": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
           }
         }
       },
       "block_order": [
-        "collection_QQyqwt",
-        "collection_d34Bcx",
-        "collection_hG3VK6"
+        "item_Ygxcm9",
+        "item_tUxWmE",
+        "item_jDbwDi",
+        "item_Wni7yk"
       ],
-      "name": "Collection list",
+      "name": "Image link blocks",
       "settings": {
-        "full_width": true,
-        "stack_collections": false,
-        "collections_per_row": 3,
-        "show_progress_bar": true,
+        "full_width": false,
+        "block_size": "large",
         "subheading": "",
-        "title": "BARYNBAGS Series",
+        "title": "Collections",
         "content": "",
         "link_url": "",
-        "link_text": "View all",
+        "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -192,233 +169,122 @@
         "heading_gradient": ""
       }
     },
-    "impact_text_8mVm9Q": {
-      "type": "impact-text",
+    "press_QQYtWR": {
+      "type": "press",
       "blocks": {
-        "item_rxUrJE": {
-          "type": "item",
+        "quote_qG3z63": {
+          "type": "quote",
           "settings": {
-            "title": "100% Quality",
-            "subheading": "",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": true,
-            "animate_impact_text_duration": 2
+            "logo_width": 100,
+            "author": "Kelly mexy",
+            "content": "I always struggled With bad sleep. now that i found Swift supple my life has changed",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_Ywz7QM": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_Ug9DMY": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
           }
         }
       },
       "block_order": [
-        "item_rxUrJE"
+        "quote_qG3z63",
+        "quote_Ywz7QM",
+        "quote_Ug9DMY"
       ],
-      "name": "Impact text",
+      "name": "Press",
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "line",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "image_with_text_overlay_PVQTdV": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "richtext_Eazqmi": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><strong>Based in Canterbury</strong></p>"
-          }
-        }
-      },
-      "block_order": [
-        "richtext_Eazqmi"
-      ],
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
-    "media_grid_A6dQA9": {
-      "type": "media-grid",
-      "blocks": {
-        "image_PkjNJG": {
-          "type": "image",
-          "settings": {
-            "title": "Sale: up to 40% off",
-            "heading_tag": "h4",
-            "link_url": "shopify://collections/travel-series",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_BpjnEk": {
-          "type": "image",
-          "settings": {
-            "title": "About us",
-            "heading_tag": "h4",
-            "link_url": "https://www.barynbags.com/pages/about-us",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 1,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_nCUhJt": {
-          "type": "image",
-          "settings": {
-            "title": "Contact",
-            "heading_tag": "h4",
-            "link_url": "https://www.barynbags.com/pages/contact",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 1,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_6cDc6h": {
-          "type": "image",
-          "settings": {
-            "title": "Work with us",
-            "heading_tag": "h4",
-            "link_url": "https://www.barynbags.com/pages/work-with-us",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_PkjNJG",
-        "image_BpjnEk",
-        "image_nCUhJt",
-        "image_6cDc6h"
-      ],
-      "name": "Media grid",
-      "settings": {
-        "full_width": true,
-        "reduce_width": false,
-        "desktop_row_height": 290,
-        "mobile_row_height": 140,
-        "background": "",
-        "background_gradient": ""
-      }
-    },
-    "faq_7MGxVR": {
-      "type": "faq",
-      "blocks": {
-        "item_Ufy9Kz": {
-          "type": "item",
-          "settings": {
-            "title": "Shipping",
-            "content": "<p>Orders are processed within 24 hours </p><p>(Monday to Friday). Delivery times may vary depending on your location.</p><p>Check our <a href=\"/policies/shipping-policy\" title=\"Shipping Policy\">shipping policy</a> for more information.</p>"
-          }
-        },
-        "item_bp7GQU": {
-          "type": "item",
-          "settings": {
-            "title": "Returning",
-            "content": "<p>Not quite right? No problem.<br/><br/>You have <strong>30 days</strong> to return your item unused and in original condition for a refund or exchange.</p><p>Check our<a href=\"/policies/refund-policy\" title=\"Refund Policy\"> Returning policy</a> for more information</p>"
-          }
-        },
-        "item_UGTrkD": {
-          "type": "item",
-          "settings": {
-            "title": "Other Questions?",
-            "content": "<p>You can contact us through our<a href=\"/pages/contact\" title=\"Contact\"> contact page!</a> We will be happy to assist you.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_Ufy9Kz",
-        "item_bp7GQU",
-        "item_UGTrkD"
-      ],
-      "name": "FAQ",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Frequently Asked Questions",
-        "content": "<p><em>We answer all your questions!</em></p>",
-        "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday",
-        "answer_time": "Average answer time: 24h",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
+        "content_size": "medium",
         "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "multiple_images_with_text_ayiKGV": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_jeEMCk": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Heading 1",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_pR7QJG": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_jeEMCk",
+        "item_pR7QJG"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
         "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
+        "button_text_color": ""
+      }
+    },
+    "scrolling_text_BkpFzd": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "#1 In Supplements",
+        "text_size": "small",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 7,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
       }
     }
   },
   "order": [
     "slideshow",
-    "featured_collection_MaxKbr",
-    "collection_list_UVCLi3",
-    "impact_text_8mVm9Q",
-    "image_with_text_overlay_PVQTdV",
-    "media_grid_A6dQA9",
-    "faq_7MGxVR"
+    "image_link_blocks_4Rmem8",
+    "press_QQYtWR",
+    "multiple_images_with_text_ayiKGV",
+    "scrolling_text_BkpFzd"
   ]
 }
