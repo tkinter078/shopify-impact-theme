@@ -34,29 +34,11 @@
             "background_gradient": ""
           }
         },
-        "image_7FyEPa": {
+        "image_VTiq9m": {
           "type": "image",
           "settings": {
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
-        "image_XGcJLa": {
-          "type": "image",
-          "settings": {
+            "image": "shopify://shop_images/2_ad1a6f29-27e3-4dda-8b39-888506c32d8b.png",
+            "mobile_image": "shopify://shop_images/2_e0aabd22-b36d-4459-8029-fcd0ddecd888.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -69,16 +51,38 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
+            "overlay_opacity": 0,
+            "background": "#803cee",
+            "background_gradient": ""
+          }
+        },
+        "image_qkb77y": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/3_0762f263-055b-437c-ac85-f7ed3bf40eb7.png",
+            "mobile_image": "shopify://shop_images/BALM_Mental_Clarity_e0a78d23-35f5-46ed-b46f-86b6f0b0a0f5.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "#803cee",
             "background_gradient": ""
           }
         }
       },
       "block_order": [
         "image_jhGmRh",
-        "image_7FyEPa",
-        "image_XGcJLa"
+        "image_VTiq9m",
+        "image_qkb77y"
       ],
       "settings": {
         "full_width": true,
@@ -92,76 +96,68 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "image_link_blocks_4Rmem8": {
-      "type": "image-link-blocks",
+    "collection_list_rANzD4": {
+      "type": "collection-list",
       "blocks": {
-        "item_Ygxcm9": {
-          "type": "item",
+        "collection_7wybhV": {
+          "type": "collection",
           "settings": {
-            "image": "shopify://shop_images/SWIFTSUPPLE_3.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
+            "collection": "snooze",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 30
           }
         },
-        "item_tUxWmE": {
-          "type": "item",
+        "collection_77CJBn": {
+          "type": "collection",
           "settings": {
-            "image": "shopify://shop_images/2_0dd49ae4-bed8-43b4-859a-9d8d67f94979.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 30
           }
         },
-        "item_jDbwDi": {
-          "type": "item",
+        "collection_cfDVB9": {
+          "type": "collection",
           "settings": {
-            "image": "shopify://shop_images/SWIFTSUPPLE_4.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_Wni7yk": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 30
           }
         }
       },
       "block_order": [
-        "item_Ygxcm9",
-        "item_tUxWmE",
-        "item_jDbwDi",
-        "item_Wni7yk"
+        "collection_7wybhV",
+        "collection_77CJBn",
+        "collection_cfDVB9"
       ],
-      "name": "Image link blocks",
+      "name": "Collection list",
       "settings": {
-        "full_width": false,
-        "block_size": "large",
+        "full_width": true,
+        "stack_collections": false,
+        "collections_per_row": 3,
+        "show_progress_bar": false,
         "subheading": "",
-        "title": "Collections",
+        "title": "Collection list",
         "content": "",
         "link_url": "",
-        "link_text": "",
+        "link_text": "View all",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -282,7 +278,7 @@
   },
   "order": [
     "slideshow",
-    "image_link_blocks_4Rmem8",
+    "collection_list_rANzD4",
     "press_QQYtWR",
     "multiple_images_with_text_ayiKGV",
     "scrolling_text_BkpFzd"
