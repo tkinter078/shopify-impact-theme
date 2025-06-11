@@ -44,6 +44,12 @@
           "type": "payment_terms",
           "settings": {}
         },
+        "liquid_kjddNH": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"google-container\">\n  <div class=\"google-text\">\"Amazing\"</div>\n\n  <img\n    class=\"google-image\"\n    src=\"https://cdn.shopify.com/s/files/1/0798/4267/2987/files/Revive_39.png?v=1733346031\"\n    alt=\"googleImage\"\n  />\n\n  <div class=\"google-rating\">Rated 4.4/5 on</div>\n\n  <img\n    class=\"google-logo\"\n    src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/640px-Google_2015_logo.svg.png\"\n    alt=\"googleImage\"\n  />\n</div>\n\n<style>\n            .google-container {\n                display: flex;\n                align-items: center;\n                background-color: #fbfbfb;\n                border: 1px solid #d4edda;\n                border-radius: 8px;\n                padding: 2px 10px;\n\n                width: 100%;\n    border: 1px dashed #898686;\n    gap: 8px;\n    justify-content: center;\n            }\n\n    .google-image{\n    width: 65px;\n    }\n    .google-logo{\n    width: 45px;\n  margin-top: 2px;\n    }\n    .google-text{\n    font-size: 13px;\n    font-weight: 600;\n    }\n    .google-rating{\n    font-size: 10px;\n    font-weight: 500;\n    color: #000;\n    }\n</style>"
+          }
+        },
         "separator_ELHiVM": {
           "type": "separator",
           "settings": {}
@@ -73,12 +79,6 @@
             "payment_button_text_color": ""
           }
         },
-        "liquid_CjfgRy": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "{% assign ship_date = 'now' | date: \"%B %e\" %}\n\n<div style=\"display: flex; justify-content: center; align-items: center; gap: 32px; margin-top: 12px; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; text-align: center;\">\n\n  <!-- Shipping Date -->\n  <div style=\"display: flex; align-items: center;\">\n    <span style=\"display: inline-block; width: 10px; height: 10px; background-color: green; border-radius: 50%; margin-right: 6px;\"></span>\n    Ships {{ ship_date }}\n  </div>\n\n  <!-- Royal Mail -->\n  <div style=\"display: flex; align-items: center;\">\n    <img src=\"{{ 'uk-flag-icon.svg' | asset_url }}\" alt=\"UK Flag\" style=\"width: 16px; height: 16px; margin-right: 6px;\">\n    Royal Mail\n  </div>\n\n</div>"
-          }
-        },
         "description_ig9jdz": {
           "type": "description",
           "settings": {
@@ -93,11 +93,11 @@
         "liquid_hnebGx",
         "rating_zUq44a",
         "payment_terms",
+        "liquid_kjddNH",
         "separator_ELHiVM",
         "variant_picker_WjhRin",
         "quantity_selector_tVEEEk",
         "buy_buttons",
-        "liquid_CjfgRy",
         "description_ig9jdz"
       ],
       "settings": {
