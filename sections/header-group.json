@@ -46,9 +46,9 @@
         "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#000000",
+        "background": "#f6efe7",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#25211e"
       }
     },
     "header": {
@@ -56,7 +56,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/BARYNBAGS_3.png",
         "logo_max_width": 120,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
@@ -71,7 +70,6 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
-        "transparent_logo": "shopify://shop_images/BARYNBAGS_2.png",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0

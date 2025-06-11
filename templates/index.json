@@ -103,6 +103,7 @@
           "type": "collection",
           "settings": {
             "collection": "snooze",
+            "image": "shopify://shop_images/SWIFTSUPPLE_3.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -117,6 +118,7 @@
           "type": "collection",
           "settings": {
             "collection": "balm",
+            "image": "shopify://shop_images/2_0dd49ae4-bed8-43b4-859a-9d8d67f94979.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -131,6 +133,7 @@
           "type": "collection",
           "settings": {
             "collection": "glow",
+            "image": "shopify://shop_images/SWIFTSUPPLE_4.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -154,10 +157,10 @@
         "collections_per_row": 3,
         "show_progress_bar": false,
         "subheading": "",
-        "title": "Collection list",
+        "title": "Shop by Health Need",
         "content": "",
         "link_url": "",
-        "link_text": "View all",
+        "link_text": "view all",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -165,98 +168,203 @@
         "heading_gradient": ""
       }
     },
-    "press_QQYtWR": {
-      "type": "press",
+    "slideshow_BhmkAj": {
+      "type": "slideshow",
       "blocks": {
-        "quote_qG3z63": {
-          "type": "quote",
+        "image_PWDWg8": {
+          "type": "image",
           "settings": {
-            "logo_width": 100,
-            "author": "Kelly mexy",
-            "content": "I always struggled With bad sleep. now that i found Swift supple my life has changed",
-            "show_rating": true,
-            "rating": 4
-          }
-        },
-        "quote_Ywz7QM": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
-            "show_rating": true,
-            "rating": 4
-          }
-        },
-        "quote_Ug9DMY": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
-            "show_rating": true,
-            "rating": 4
+            "image": "shopify://shop_images/Een_subtitel_toevoegen_2.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center-start text-start",
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
+            "subheading": "SwiftSupple",
+            "title": "Target Symptoms at the Source",
+            "heading_tag": "h0",
+            "button_text": "SHOP ALL",
+            "button_link": "shopify://collections",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
           }
         }
       },
       "block_order": [
-        "quote_qG3z63",
-        "quote_Ywz7QM",
-        "quote_Ug9DMY"
+        "image_PWDWg8"
       ],
-      "name": "Press",
+      "name": "Slideshow",
       "settings": {
         "full_width": true,
-        "content_size": "medium",
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
+    "text_with_icons_9nyxXQ": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_X4iGJB": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-pin",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Based In USA",
+            "content": "<p>Every product is proudly <strong>made</strong> and <strong>shipped</strong> within the USA</p>"
+          }
+        },
+        "item_xLaHBw": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-validation",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "GMP certified",
+            "content": "<p>In the U.S., GMP standards are enforced by the <strong>FDA (Food and Drug Administration)</strong> for food, drugs, cosmetics, and supplements.</p>"
+          }
+        },
+        "item_CeH6t3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-star",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "ingredients are evaluated",
+            "content": "<p>Our ingredients are evaluated in over <strong>2,500 </strong>studies</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_X4iGJB",
+        "item_xLaHBw",
+        "item_CeH6t3"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "testimonials_HCqUfi": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_tcHKEQ": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/1.png",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_F84LXj": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_LHrk6b": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_DM964r": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_DRGHnH": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_gRxCp7": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_tcHKEQ",
+        "testimonial_F84LXj",
+        "testimonial_LHrk6b",
+        "testimonial_DM964r",
+        "testimonial_DRGHnH",
+        "testimonial_gRxCp7"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "Over 10,000 Positive Reviews",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
-    "multiple_images_with_text_ayiKGV": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_jeEMCk": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "item_pR7QJG": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_jeEMCk",
-        "item_pR7QJG"
-      ],
-      "name": "Multiple images with text",
-      "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
       }
     },
     "scrolling_text_BkpFzd": {
@@ -279,8 +387,9 @@
   "order": [
     "slideshow",
     "collection_list_rANzD4",
-    "press_QQYtWR",
-    "multiple_images_with_text_ayiKGV",
+    "slideshow_BhmkAj",
+    "text_with_icons_9nyxXQ",
+    "testimonials_HCqUfi",
     "scrolling_text_BkpFzd"
   ]
 }
