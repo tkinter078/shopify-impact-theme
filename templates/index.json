@@ -103,7 +103,7 @@
           "type": "collection",
           "settings": {
             "collection": "snooze",
-            "image": "shopify://shop_images/SWIFTSUPPLE_3.png",
+            "image": "shopify://shop_images/1_546d50e2-a755-4796-9327-40e1c8d21910.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -118,7 +118,7 @@
           "type": "collection",
           "settings": {
             "collection": "balm",
-            "image": "shopify://shop_images/2_0dd49ae4-bed8-43b4-859a-9d8d67f94979.png",
+            "image": "shopify://shop_images/2_329cbbc9-eaf6-4291-b050-282ebb579810.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -133,7 +133,7 @@
           "type": "collection",
           "settings": {
             "collection": "glow",
-            "image": "shopify://shop_images/SWIFTSUPPLE_4.png",
+            "image": "shopify://shop_images/3_cdcc06a8-c810-499f-b63a-77cff972b4e2.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -219,8 +219,8 @@
             "mobile_icon_width": 24,
             "icon_width": 32,
             "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
+            "icon_background": "#ffb74a",
+            "icon_color": "#ffb74a",
             "title": "Based In USA",
             "content": "<p>Every product is proudly <strong>made</strong> and <strong>shipped</strong> within the USA</p>"
           }
@@ -233,7 +233,7 @@
             "icon_width": 32,
             "icon_background_type": "none",
             "icon_background": "",
-            "icon_color": "",
+            "icon_color": "#ffb74a",
             "title": "GMP certified",
             "content": "<p>In the U.S., GMP standards are enforced by the <strong>FDA (Food and Drug Administration)</strong> for food, drugs, cosmetics, and supplements.</p>"
           }
@@ -246,7 +246,7 @@
             "icon_width": 32,
             "icon_background_type": "none",
             "icon_background": "",
-            "icon_color": "",
+            "icon_color": "#ffb74a",
             "title": "ingredients are evaluated",
             "content": "<p>Our ingredients are evaluated in over <strong>2,500 </strong>studies</p>"
           }
@@ -379,7 +379,7 @@
         "scrolling_speed": 7,
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#ffb74a",
         "text_gradient": ""
       }
     },
