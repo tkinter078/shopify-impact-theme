@@ -47,7 +47,7 @@
         "liquid_kjddNH": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"google-container\">\n  <div class=\"google-text\">\"Amazing\"</div>\n\n  <img\n    class=\"google-image\"\n    src=\"https://cdn.shopify.com/s/files/1/0798/4267/2987/files/Revive_39.png?v=1733346031\"\n    alt=\"googleImage\"\n  />\n\n  <div class=\"google-rating\">Rated 4.4/5 on</div>\n\n  <img\n    class=\"google-logo\"\n    src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/640px-Google_2015_logo.svg.png\"\n    alt=\"googleImage\"\n  />\n</div>\n\n<style>\n            .google-container {\n                display: flex;\n                align-items: center;\n                background-color: #fbfbfb;\n                border: 1px solid #d4edda;\n                border-radius: 8px;\n                padding: 2px 10px;\n\n                width: 100%;\n    border: 1px dashed #898686;\n    gap: 8px;\n    justify-content: center;\n            }\n\n    .google-image{\n    width: 65px;\n    }\n    .google-logo{\n    width: 45px;\n  margin-top: 2px;\n    }\n    .google-text{\n    font-size: 13px;\n    font-weight: 600;\n    }\n    .google-rating{\n    font-size: 10px;\n    font-weight: 500;\n    color: #000;\n    }\n</style>"
+            "liquid": "<div class=\"message-container\">\n  <div class=\"dot\"><span style=\"visibility: hidden;\">.</span></div>\n  <div class=\"text-mbg\">30-day money back guarantee, no questions.</div>\n</div>\n\n<style>\n          .message-container {\n              display: flex;\n              align-items: center;\n              background-color: #e9fbea;\n              border: 1px solid #d4edda;\n              border-radius: 8px;\n              padding: 10px 10px;\n              max-width: 400px;\n              width: 100%;\n              box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n          }\n          .message-container .dot {\n              width: 10px;\n              height: 10px;\n              background-color: #007800; /* Darker green for contrast */\n              border-radius: 50%;\n              margin-right: 15px;\n              box-shadow: 0 0 10px #00a000; /* Initial glow effect */\n              animation: pulse 1.5s infinite; /* Apply pulsing animation */\n          }\n          @keyframes pulse {\n              0% {\n                  box-shadow: 0 0 10px #00a000;\n                  transform: scale(1);\n              }\n              50% {\n                  box-shadow: 0 0 20px #00a000;\n                  transform: scale(1);\n              }\n              100% {\n                  box-shadow: 0 0 10px #00a000;\n                  transform: scale(1);\n              }\n          }\n          .message-container .text-mbg {\n              font-size: 12px;\n              color: #039903;\n  line-height: 0px;\n          }\n</style>"
           }
         },
         "separator_ELHiVM": {
@@ -118,66 +118,96 @@
         "input_text_color": ""
       }
     },
-    "testimonials_niVQNi": {
+    "testimonials_3NCTz9": {
       "type": "testimonials",
       "blocks": {
-        "testimonial_GyRBq9": {
+        "testimonial_PwMt6i": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/1.png",
+            "round_avatar": false,
+            "show_rating": true,
+            "rating": 4,
+            "author": "– Maya, 28",
+            "title": "\"Part of my bedtime ritual now\"📍 Brooklyn, NY",
+            "content": "<p>As someone who works in tech and can't shut off her brain at night, Swiftsupple’s <strong>Sleep Gummies</strong> have been a game-changer. I take one while doing my skincare and reading a few pages before bed. It helps me wind down <em>without</em> feeling like I took anything heavy.</p>"
+          }
+        },
+        "testimonial_Kj8JtD": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/1749041912859-generated-label-image-0.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Sarah P. - London",
-            "title": "Stylish & Practical",
-            "content": "<p>“Finally, a bag that looks good and fits everything I need. Whether I’m at work or travelling, BarynBags has become my go-to.”</p>"
+            "author": "– Olivia, 27",
+            "title": "\"A treat for my skin and soul\"📍 Austin, TX",
+            "content": "<p>I found Swiftsupple on TikTok and got the <strong>Glow Clarity</strong> during a self-care binge. No regrets. My skin looks healthier, and I actually <em>enjoy</em> taking my vitamins now. It fits so seamlessly into my routine, and I feel like I’m doing something good for myself every day. 10/10 would repurchase.</p>"
           }
         },
-        "testimonial_FEeGaC": {
+        "testimonial_f6ajRd": {
           "type": "testimonial",
           "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Mark R. - Edinburgh",
-            "title": "Trusted Family Brand",
-            "content": "<p>“I love supporting family businesses, especially when the quality is this high. Every product feels like it was made with care.”</p>"
-          }
-        },
-        "testimonial_t4J7HN": {
-          "type": "testimonial",
-          "settings": {
+            "image": "shopify://shop_images/1748968912789-generated-label-image-0.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "James H. - Bristol",
-            "title": "Fast Shipping & Great Service",
-            "content": "<p>“Ordered on a Monday and got a tracking number the next day! The packaging was lovely and customer service was super helpful. Definitely shopping here again.”</p>"
+            "author": "– Taylor, 29",
+            "title": "\"Mental clarity without the crash\"📍 Los Angeles, CA",
+            "content": "<p>I’m constantly juggling projects and meetings, so I need something to keep me focused without making me anxious. Swiftsupple’s <strong>BALM+</strong> does exactly that. I feel grounded, not wired.</p>"
           }
         },
-        "testimonial_KJx6A9": {
+        "testimonial_QiXamR": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/1.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Emily T. -  Manchester",
-            "title": "Quality & Craftsmanship",
-            "content": "<p>“I was blown away by the craftsmanship and durability. You can feel the quality the moment you unbox it. BarynBags truly delivers premium products.”</p>"
+            "author": "– Jordan, 30",
+            "title": "\"No more overthinking at night\"📍 Chicago, IL",
+            "content": "<p>My mind used to race as soon as I got into bed. I didn’t want to take melatonin every night, so I tried Swiftsupple. The <strong>Sleep Gummies</strong> are super nice, taste great, and genuinely help me drift off.</p>"
+          }
+        },
+        "testimonial_GPtUYW": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/1748968524524-generated-label-image-2.jpg",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "– Chloe, 28",
+            "title": "\"Stylish and effective wellness\"📍 San Francisco, CA",
+            "content": "<p>Swiftsupple isn’t just another supplement brand – it <em>feels</em> like a lifestyle. I found them through an influencer’s ‘Sunday reset’ reel and instantly added to cart. I’ve been using the <strong>BALM Series</strong> and noticed I’m less irritable and more balanced during the day.</p>"
+          }
+        },
+        "testimonial_NcVETL": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/1749042452302-generated-label-image-5.jpg",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "– Harper, 26",
+            "title": "\"Minimal effort, maximum impact\"📍 Seattle, WA",
+            "content": "<p>I love when self-care doesn’t feel like a chore. With Swiftsupple, it’s one gummie a day, and that’s it. No pills, no complicated regimen. I have a little shelf with <strong>Snooze, Glow, and Balm</strong>. And pick based on my mood. Also, shipping was fast, and the unboxing experience was <em>chef’s kiss</em>.</p>"
           }
         }
       },
       "block_order": [
-        "testimonial_GyRBq9",
-        "testimonial_FEeGaC",
-        "testimonial_t4J7HN",
-        "testimonial_KJx6A9"
+        "testimonial_PwMt6i",
+        "testimonial_Kj8JtD",
+        "testimonial_f6ajRd",
+        "testimonial_QiXamR",
+        "testimonial_GPtUYW",
+        "testimonial_NcVETL"
       ],
       "name": "Testimonials",
       "settings": {
         "full_width": true,
         "stack_testimonials": false,
         "subheading": "",
-        "title": "Customer experiences with SwiftSupple",
+        "title": "Over 10,000 Positive Reviews",
         "content": "",
         "link_url": "",
         "link_text": "",
@@ -301,7 +331,7 @@
   },
   "order": [
     "main",
-    "testimonials_niVQNi",
+    "testimonials_3NCTz9",
     "faq_4PY7Xf",
     "related_products_79JqHJ",
     "image_with_text_overlay_7P3MYj"
