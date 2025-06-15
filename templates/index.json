@@ -277,67 +277,72 @@
           "type": "testimonial",
           "settings": {
             "image": "shopify://shop_images/1.png",
-            "round_avatar": true,
+            "round_avatar": false,
             "show_rating": true,
             "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "– Maya, 28",
+            "title": "\"Part of my bedtime ritual now\"📍 Brooklyn, NY",
+            "content": "<p>As someone who works in tech and can't shut off her brain at night, Swiftsupple’s <strong>Sleep Gummies</strong> have been a game-changer. I take one while doing my skincare and reading a few pages before bed. It helps me wind down <em>without</em> feeling like I took anything heavy.</p>"
           }
         },
         "testimonial_F84LXj": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/1749041912859-generated-label-image-0.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "– Olivia, 27",
+            "title": "\"A treat for my skin and soul\"📍 Austin, TX",
+            "content": "<p>I found Swiftsupple on TikTok and got the <strong>Glow Clarity</strong> during a self-care binge. No regrets. My skin looks healthier, and I actually <em>enjoy</em> taking my vitamins now. It fits so seamlessly into my routine, and I feel like I’m doing something good for myself every day. 10/10 would repurchase.</p>"
           }
         },
         "testimonial_LHrk6b": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/1748968912789-generated-label-image-0.jpg",
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "rating": 5,
+            "author": "– Taylor, 29",
+            "title": "\"Mental clarity without the crash\"📍 Los Angeles, CA",
+            "content": "<p>I’m constantly juggling projects and meetings, so I need something to keep me focused without making me anxious. Swiftsupple’s <strong>BALM+</strong> does exactly that. I feel grounded, not wired.</p>"
           }
         },
         "testimonial_DM964r": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/1.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "– Jordan, 30",
+            "title": "\"No more overthinking at night\"📍 Chicago, IL",
+            "content": "<p>My mind used to race as soon as I got into bed. I didn’t want to take melatonin every night, so I tried Swiftsupple. The <strong>Sleep Gummies</strong> are super nice, taste great, and genuinely help me drift off.</p>"
           }
         },
         "testimonial_DRGHnH": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/1748968524524-generated-label-image-2.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "– Chloe, 28",
+            "title": "\"Stylish and effective wellness\"📍 San Francisco, CA",
+            "content": "<p>Swiftsupple isn’t just another supplement brand – it <em>feels</em> like a lifestyle. I found them through an influencer’s ‘Sunday reset’ reel and instantly added to cart. I’ve been using the <strong>BALM Series</strong> and noticed I’m less irritable and more balanced during the day.</p>"
           }
         },
         "testimonial_gRxCp7": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/1749042452302-generated-label-image-5.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "– Harper, 26",
+            "title": "\"Minimal effort, maximum impact\"📍 Seattle, WA",
+            "content": "<p>I love when self-care doesn’t feel like a chore. With Swiftsupple, it’s one gummie a day, and that’s it. No pills, no complicated regimen. I have a little shelf with <strong>Snooze, Glow, and Balm</strong>. And pick based on my mood. Also, shipping was fast, and the unboxing experience was <em>chef’s kiss</em>.</p>"
           }
         }
       },
