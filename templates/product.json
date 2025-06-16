@@ -212,7 +212,7 @@
           "type": "item",
           "settings": {
             "title": "Shipping",
-            "content": "<p>Orders are processed within 24 hours </p><p>(Monday to Friday). Delivery times may vary depending on your location.</p><p>Check our <a href=\"/policies/shipping-policy\" title=\"Shipping Policy\">shipping policy</a> for more information.</p>"
+            "content": "<p>Orders are processed within 2-5 days</p><p>delivery takes 1-4 days</p><p>Check our <a href=\"/policies/shipping-policy\" title=\"Shipping Policy\">shipping policy</a> for more information.</p>"
           }
         },
         "item_aVTqdd": {
