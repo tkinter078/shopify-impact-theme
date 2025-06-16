@@ -70,7 +70,6 @@
         },
         "description_ig9jdz": {
           "type": "description",
-          "disabled": true,
           "settings": {
             "collapse_content": false
           }
@@ -207,59 +206,6 @@
         "testimonial_card_text_color": ""
       }
     },
-    "faq_4PY7Xf": {
-      "type": "faq",
-      "blocks": {
-        "item_yFwdhP": {
-          "type": "item",
-          "settings": {
-            "title": "Shipping",
-            "content": "<p>Orders are processed within 2-5 days</p><p>delivery takes 1-4 days</p><p>Check our <a href=\"/policies/shipping-policy\" title=\"Shipping Policy\">shipping policy</a> for more information.</p>"
-          }
-        },
-        "item_aVTqdd": {
-          "type": "item",
-          "settings": {
-            "title": "Returning",
-            "content": "<p>Not quite right? No problem.<br/><br/>You have <strong>30 days</strong> to return your item unused and in original condition for a refund or exchange.</p><p>Check our<a href=\"/policies/refund-policy\" title=\"Refund Policy\"> Returning policy</a> for more information</p>"
-          }
-        },
-        "item_zhrymn": {
-          "type": "item",
-          "settings": {
-            "title": "Other Questions?",
-            "content": "<p>You can contact us through our<a href=\"/pages/contact\" title=\"Contact\"> contact page!</a> We will be happy to assist you.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_yFwdhP",
-        "item_aVTqdd",
-        "item_zhrymn"
-      ],
-      "name": "FAQ",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Frequently Asked Questions",
-        "content": "<p><em>We answer all your questions!</em></p>",
-        "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday",
-        "answer_time": "Average answer time: 24h",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
-    },
     "related_products_79JqHJ": {
       "type": "related-products",
       "name": "Related products",
@@ -288,39 +234,11 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
-    },
-    "image_with_text_overlay_7P3MYj": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "richtext_fTw3Py": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><strong>Based in Canterbury</strong></p>"
-          }
-        }
-      },
-      "block_order": [
-        "richtext_fTw3Py"
-      ],
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
     }
   },
   "order": [
     "main",
     "testimonials_3NCTz9",
-    "faq_4PY7Xf",
-    "related_products_79JqHJ",
-    "image_with_text_overlay_7P3MYj"
+    "related_products_79JqHJ"
   ]
 }
