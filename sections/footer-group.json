@@ -11,78 +11,57 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "text-with-icons": {
-      "type": "text-with-icons",
+    "faq_DjxXLY": {
+      "type": "faq",
       "blocks": {
-        "free-shipping": {
+        "item_6DzeRg": {
           "type": "item",
           "settings": {
-            "icon": "picto-box",
-            "mobile_icon_width": 32,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Shipping",
-            "content": "<p>Orders are delivred within 4-7 days</p>"
+            "title": "Are SwiftSupple Vitamins FDA approved?",
+            "content": "<p>Are SwiftSupple vitamins FDA approved?</p><p>By law, the FDA does not approve dietary supplements. But, the FDA does regulate both dietary supplements and dietary ingredients. At SwiftSupple, we follow what the FDA established for dietary supplements in 2007 called \"current Good Manufacturing Practice\" (cGMP) regulations requiring that manufacturers evaluate their products through testing identity, purity, strength, and composition. We not only tested for stability with our manufacturers, but also did 3rd-party testing for potency of active ingredients, adulterants like heavy metals and microbes, allergens, rancidity and other unwanted contaminants.</p>"
           }
         },
-        "customer-support": {
+        "item_WxAxbJ": {
           "type": "item",
           "settings": {
-            "icon": "picto-return",
-            "mobile_icon_width": 32,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Returns",
-            "content": "<p>Hassle-free refunds or exchanges</p>"
+            "title": "Shipping and Order Status",
+            "content": "<p><strong>Is my credit card information secure?</strong></p><ul><li>Yes, all credit cards are secured by Shopify, Paypal, or Amazon.</li></ul><p><strong>Where do you ship?</strong></p><ul><li>Currently only shipping within the USA, but we're going global soon. Hang tight!</li></ul><p><strong>How much does shipping cost?</strong></p><ul><li>Shipping is <strong>free</strong> for subscriptions! For all other orders, shipping charges vary per location. You'll see your individual shipping costs calculated at checkout.<br/></li></ul><p><strong>How do I track my package?</strong></p><ul><li>Need to know if your vitamins are on the way? Tracking information should have been sent via email upon placing your order. If not, shoot us an email at hello@opositiv.com</li></ul><p><strong>I didn't receive a shipping or order confirmation, help!</strong></p><ul><li>Email us at hello@opositiv.com. We'll figure it out for ya!</li></ul>"
           }
         },
-        "payment": {
+        "item_UrX8Qd": {
           "type": "item",
           "settings": {
-            "icon": "picto-pin",
-            "mobile_icon_width": 32,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Based in the United States",
-            "content": "<p>Owned since 2018</p>"
-          }
-        },
-        "item_fWfbUA": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-chat",
-            "mobile_icon_width": 40,
-            "icon_width": 32,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Customer Service",
-            "content": "<p>Need help? Our US-based team</p>"
+            "title": "Can I return my Swiftsupple vitamins?",
+            "content": "<p>Yes! We offer returns on unopened products within <strong>30 days</strong> of delivery. If you’re not satisfied, we’re here to help make it right.</p><p><strong>What are the return conditions?</strong></p><p>To be eligible for a return:</p><ul><li>unused and in its original packaging<br/></li><li>30 days of receiving your order<br/></li></ul><p><strong>How do I start a return?</strong></p><p>Simply email us at <a><strong>support@swiftsupple.com</strong></a> with:</p><ul><li>order number<br/></li><li>reason for return<br/></li></ul><p>We'll reply within 1–2 business days with the next steps.</p>"
           }
         }
       },
       "block_order": [
-        "free-shipping",
-        "customer-support",
-        "payment",
-        "item_fWfbUA"
+        "item_6DzeRg",
+        "item_WxAxbJ",
+        "item_UrX8Qd"
       ],
+      "name": "FAQ",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "title": "",
-        "heading_tag": "h6",
-        "text_alignment": "center",
-        "icon_spacing": "small",
+        "subheading": "",
+        "title": "Frequently Asked Questions",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
       }
     },
     "footer": {
@@ -127,7 +106,7 @@
     }
   },
   "order": [
-    "text-with-icons",
+    "faq_DjxXLY",
     "footer"
   ]
 }
