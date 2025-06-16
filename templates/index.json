@@ -393,15 +393,20 @@
       "name": "Featured collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "snooze-night-gummies",
+          "balm-focus",
+          "glow-anti-aging-normal-skin",
+          "trim-burn-diet-drops"
+        ],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
-        "products_count": 6,
+        "products_count": 4,
         "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
+        "products_per_row_desktop": 4,
         "subheading": "",
-        "title": "Featured collection",
+        "title": "Explore Our Products",
         "content": "",
         "link_url": "",
         "link_text": "View all",
@@ -413,6 +418,80 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "image_link_blocks_TnUNeP": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_ArzwTN": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_Q9rJcU": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_MBNBFn": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_cqdN9Q": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_ArzwTN",
+        "item_Q9rJcU",
+        "item_MBNBFn",
+        "item_cqdN9Q"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "large",
+        "subheading": "",
+        "title": "The Daily Vitamin",
+        "content": "<p>Get a daily serving of health hacks, self-care practices, and frequentlyasked health questions on our blog.</p>",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -422,6 +501,7 @@
     "text_with_icons_9nyxXQ",
     "testimonials_HCqUfi",
     "scrolling_text_BkpFzd",
-    "featured_collection_YxbyUg"
+    "featured_collection_YxbyUg",
+    "image_link_blocks_TnUNeP"
   ]
 }
