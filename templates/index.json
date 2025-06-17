@@ -161,10 +161,10 @@
         "content": "",
         "link_url": "",
         "link_text": "",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#000000",
-        "heading_color": "",
+        "text_color": "#ffb74a",
+        "heading_color": "#ffb74a",
         "heading_gradient": ""
       }
     },
@@ -363,10 +363,10 @@
         "content": "",
         "link_url": "",
         "link_text": "",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
-        "heading_color": "",
+        "heading_color": "#ffb74a",
         "heading_gradient": "",
         "testimonial_card_background": "",
         "testimonial_card_text_color": ""
@@ -412,7 +412,7 @@
         "link_text": "View all",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#ffb74a",
         "heading_color": "",
         "heading_gradient": "",
         "product_card_background": "",
@@ -507,7 +507,7 @@
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "heading_color": "",
+        "heading_color": "#ffb74a",
         "heading_gradient": ""
       }
     }

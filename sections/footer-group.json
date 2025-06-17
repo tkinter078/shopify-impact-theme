@@ -56,7 +56,7 @@
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "heading_color": "",
+        "heading_color": "#ffb74a",
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "",
@@ -67,41 +67,51 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "links": {
+        "links_9ADRFm": {
           "type": "links",
           "settings": {
             "menu": "footer",
             "show_menu_title": true
           }
         },
-        "links_nYmXXe": {
+        "links_rHVQzL": {
           "type": "links",
           "settings": {
-            "menu": "",
+            "menu": "support",
             "show_menu_title": true
           }
         },
-        "text": {
+        "newsletter_KLVJkX": {
+          "type": "newsletter",
+          "settings": {
+            "image_width": 150,
+            "heading_size": "h5",
+            "title": "Keep in Touch GET EXCLUSIVE OFFERS",
+            "content": ""
+          }
+        },
+        "text_FC9AT4": {
           "type": "text",
           "settings": {
-            "title": "Opening Hours",
-            "content": "<p><strong>Business Hours:</strong></p><p><strong>Monday – Friday:</strong> 9:00 AM – 5:00 PM<br/><strong>Saturday & Sunday:</strong> Closed<br/></p><p><strong>Customer Service:</strong> Available 24/7</p><p>info@barynbags.com</p><p>Check our socials ↓<br/></p>",
-            "enable_follow_on_shop": true
+            "title": "",
+            "content": "<h3>COPYRIGHT ©2025O SwiftSupple, INC.</h3><p>*These statements have not been evaluated by the Food andDrug Administration. This product is not intended to diagnose,treat, cure or prevent any disease. The views and nutritionaladvice expressed by SwiftSupple, Inc. are not intended to be a substitute for conventional medical service. Individualresults may vary.<br/><br/></p>",
+            "enable_follow_on_shop": false
           }
         }
       },
       "block_order": [
-        "links",
-        "links_nYmXXe",
-        "text"
+        "links_9ADRFm",
+        "links_rHVQzL",
+        "newsletter_KLVJkX",
+        "text_FC9AT4"
       ],
       "settings": {
         "show_social_media": true,
-        "show_payment_icons": true,
+        "show_payment_icons": false,
         "show_country_selector": true,
-        "show_country_flag": true,
+        "show_country_flag": false,
         "show_country_name": true,
-        "show_locale_selector": true
+        "show_locale_selector": false
       }
     }
   },
