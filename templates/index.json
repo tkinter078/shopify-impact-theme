@@ -377,7 +377,7 @@
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
-        "text": "10.000+ Positive Customers",
+        "text": "GMP certified Supplements",
         "text_size": "small",
         "text_style": "fill",
         "scrolling_mode": "auto",
@@ -425,21 +425,10 @@
         "item_CJCHnz": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/2025-06-16_Yoga.webp",
             "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_ArzwTN": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
+            "link_text": "Yoga Flows",
+            "link_url": "https://www.acefitness.org/resources/pros/expert-articles/",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -449,9 +438,10 @@
         "item_Q9rJcU": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/The-Role-Of-Nutrition-In-Preventing-Age-Related-Conditions.jpg",
             "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
+            "link_text": "Role Of Nutrition",
+            "link_url": "https://artofhealthyliving.com/the-role-of-nutrition-in-preventing-age-related-conditions/",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -461,9 +451,10 @@
         "item_MBNBFn": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/The-Ancient-Art-And-Modern-Science-Behind-Matcha-Tea.jpg",
             "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
+            "link_text": "Matcha Tea",
+            "link_url": "https://artofhealthyliving.com/the-ancient-art-and-modern-science-behind-matcha-tea/",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -473,9 +464,23 @@
         "item_cqdN9Q": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/What-Are-The-5-Holistic-Wellness-Benefits-Of-Tantric-Massage-In-London.jpg",
             "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
+            "link_text": "Wellness Benefits ",
+            "link_url": "https://artofhealthyliving.com/what-are-the-5-holistic-wellness-benefits-of-tantric-massage-in-london/",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_ArzwTN": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Is-Anxiety-Causing-You-To-Always-Procrastinate-These-Tips-May-Help.jpg",
+            "stretch_image": true,
+            "link_text": "Anxiety",
+            "link_url": "https://artofhealthyliving.com/is-anxiety-causing-you-to-always-procrastinate-these-tips-may-help/",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -485,10 +490,10 @@
       },
       "block_order": [
         "item_CJCHnz",
-        "item_ArzwTN",
         "item_Q9rJcU",
         "item_MBNBFn",
-        "item_cqdN9Q"
+        "item_cqdN9Q",
+        "item_ArzwTN"
       ],
       "name": "Image link blocks",
       "settings": {
