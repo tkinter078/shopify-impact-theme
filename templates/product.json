@@ -80,12 +80,6 @@
           "settings": {
             "collapse_content": false
           }
-        },
-        "text_dQAULt": {
-          "type": "text",
-          "settings": {
-            "text": "<p>1 month supply</p><p>2 month supply </p><p>3 month supply</p>"
-          }
         }
       },
       "block_order": [
@@ -98,8 +92,7 @@
         "buy_buttons",
         "variant_picker_WjhRin",
         "liquid_xMdA89",
-        "description_ig9jdz",
-        "text_dQAULt"
+        "description_ig9jdz"
       ],
       "settings": {
         "full_width": true,
