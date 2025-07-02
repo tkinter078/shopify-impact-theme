@@ -25,8 +25,8 @@
     "success_color": "#00a341",
     "warning_color": "#ffd28e",
     "error_color": "#f83a3a",
-    "header_background": "#f2f2f2",
-    "header_text_color": "#2d2926",
+    "header_background": "#000000",
+    "header_text_color": "#ffffff",
     "footer_background": "#f2f2f2",
     "footer_text_color": "#2d2926",
     "dialog_background": "#ffffff",
@@ -60,11 +60,6 @@
     "checkout_button_color": "#1a1a1a",
     "content_for_index": [],
     "blocks": {
-      "15557474716127144420": {
-        "type": "shopify://apps/kaching-bundles/blocks/app-embed-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-        "disabled": false,
-        "settings": {}
-      },
       "2724325275511621162": {
         "type": "shopify://apps/kaching-subscriptions/blocks/app-embed-block/1fa39fd7-f6a3-4bbc-9383-7d91d27b44f5",
         "disabled": false,
