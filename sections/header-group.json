@@ -24,7 +24,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "30-Day Money-Back Guarantee",
+            "text": "14-Day Money-Back Guarantee",
             "url": ""
           }
         },
@@ -46,7 +46,7 @@
         "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 14,
-        "background": "#000000",
+        "background": "#7a5c3d",
         "background_gradient": "",
         "text_color": "#ffffff"
       }

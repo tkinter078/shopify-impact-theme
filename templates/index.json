@@ -163,8 +163,8 @@
         "link_text": "",
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#ffb74a",
-        "heading_color": "#ffb74a",
+        "text_color": "#7a5c3d",
+        "heading_color": "#7a5c3d",
         "heading_gradient": ""
       }
     },
@@ -473,27 +473,13 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
-        },
-        "item_ArzwTN": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Is-Anxiety-Causing-You-To-Always-Procrastinate-These-Tips-May-Help.jpg",
-            "stretch_image": true,
-            "link_text": "Anxiety",
-            "link_url": "https://artofhealthyliving.com/is-anxiety-causing-you-to-always-procrastinate-these-tips-may-help/",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
         }
       },
       "block_order": [
         "item_CJCHnz",
         "item_Q9rJcU",
         "item_MBNBFn",
-        "item_cqdN9Q",
-        "item_ArzwTN"
+        "item_cqdN9Q"
       ],
       "name": "Image link blocks",
       "settings": {
