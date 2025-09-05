@@ -15,8 +15,6 @@
         "image_jhGmRh": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Een_subtitel_toevoegen_1_559fb4cb-ecef-48b2-922c-a0e401f1abc7.png",
-            "mobile_image": "shopify://shop_images/Ontwerp_zonder_titel_4.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -37,8 +35,6 @@
         "image_VTiq9m": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/2_ad1a6f29-27e3-4dda-8b39-888506c32d8b.png",
-            "mobile_image": "shopify://shop_images/2_e0aabd22-b36d-4459-8029-fcd0ddecd888.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -59,8 +55,6 @@
         "image_qkb77y": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/3_0762f263-055b-437c-ac85-f7ed3bf40eb7.png",
-            "mobile_image": "shopify://shop_images/BALM_Mental_Clarity_e0a78d23-35f5-46ed-b46f-86b6f0b0a0f5.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -103,7 +97,6 @@
           "type": "collection",
           "settings": {
             "collection": "snooze",
-            "image": "shopify://shop_images/1_546d50e2-a755-4796-9327-40e1c8d21910.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -118,7 +111,6 @@
           "type": "collection",
           "settings": {
             "collection": "balm",
-            "image": "shopify://shop_images/2_329cbbc9-eaf6-4291-b050-282ebb579810.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -133,7 +125,6 @@
           "type": "collection",
           "settings": {
             "collection": "glow",
-            "image": "shopify://shop_images/3_cdcc06a8-c810-499f-b63a-77cff972b4e2.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -163,7 +154,7 @@
         "link_text": "",
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#1b263b",
+        "text_color": "#2d2926",
         "heading_color": "#1b263b",
         "heading_gradient": ""
       }
@@ -174,7 +165,6 @@
         "image_PWDWg8": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Een_subtitel_toevoegen_2.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center-start text-start",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
@@ -276,7 +266,6 @@
         "testimonial_tcHKEQ": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/1.png",
             "round_avatar": false,
             "show_rating": true,
             "rating": 4,
@@ -288,7 +277,6 @@
         "testimonial_F84LXj": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/1749041912859-generated-label-image-0.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -300,7 +288,6 @@
         "testimonial_LHrk6b": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/1748968912789-generated-label-image-0.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -312,7 +299,6 @@
         "testimonial_DM964r": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/1.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
@@ -324,7 +310,6 @@
         "testimonial_DRGHnH": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/1748968524524-generated-label-image-2.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
@@ -336,7 +321,6 @@
         "testimonial_gRxCp7": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/1749042452302-generated-label-image-5.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
@@ -425,7 +409,6 @@
         "item_CJCHnz": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2025-06-16_Yoga.webp",
             "stretch_image": true,
             "link_text": "Yoga Flows",
             "link_url": "https://www.acefitness.org/resources/pros/expert-articles/",
@@ -438,7 +421,6 @@
         "item_Q9rJcU": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/The-Role-Of-Nutrition-In-Preventing-Age-Related-Conditions.jpg",
             "stretch_image": true,
             "link_text": "Role Of Nutrition",
             "link_url": "https://artofhealthyliving.com/the-role-of-nutrition-in-preventing-age-related-conditions/",
@@ -451,7 +433,6 @@
         "item_MBNBFn": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/The-Ancient-Art-And-Modern-Science-Behind-Matcha-Tea.jpg",
             "stretch_image": true,
             "link_text": "Matcha Tea",
             "link_url": "https://artofhealthyliving.com/the-ancient-art-and-modern-science-behind-matcha-tea/",
@@ -464,7 +445,6 @@
         "item_cqdN9Q": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/What-Are-The-5-Holistic-Wellness-Benefits-Of-Tantric-Massage-In-London.jpg",
             "stretch_image": true,
             "link_text": "Wellness Benefits ",
             "link_url": "https://artofhealthyliving.com/what-are-the-5-holistic-wellness-benefits-of-tantric-massage-in-london/",

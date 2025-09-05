@@ -25,14 +25,14 @@
     "success_color": "#00a341",
     "warning_color": "#ffd28e",
     "error_color": "#f83a3a",
-    "header_background": "#1b263b",
-    "header_text_color": "#ffffff",
-    "footer_background": "#1b263b",
+    "header_background": "#101820",
+    "header_text_color": "#fee715",
+    "footer_background": "#101820",
     "footer_text_color": "#ffffff",
     "dialog_background": "#ffffff",
-    "primary_button_background": "#1b263b",
+    "primary_button_background": "#101820",
     "primary_button_text_color": "#ffffff",
-    "secondary_button_background": "#000000",
+    "secondary_button_background": "#101820",
     "secondary_button_text_color": "#ffffff",
     "product_card_text_color": "#1a1a1a",
     "product_rating_color": "#ffb74a",
@@ -58,14 +58,7 @@
     "social_instagram": "https://www.instagram.com/barynbags/",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": [],
-    "blocks": {
-      "2724325275511621162": {
-        "type": "shopify://apps/kaching-subscriptions/blocks/app-embed-block/1fa39fd7-f6a3-4bbc-9383-7d91d27b44f5",
-        "disabled": false,
-        "settings": {}
-      }
-    }
+    "content_for_index": []
   },
   "presets": {
     "Sound": {
