@@ -13,7 +13,7 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "",
+        "collection": "sport-performance",
         "products": [],
         "full_width": true,
         "stack_products": true,
