@@ -9,26 +9,92 @@
  */
 {
   "sections": {
-    "featured_collection_YxbyUg": {
+    "slideshow_nC4wEJ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_CbN6nx": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 1",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_xcyccb": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 2",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_CbN6nx",
+        "image_xcyccb"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
+    "featured_collection_QY9n6F": {
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "sport-performance",
-        "products": [],
+        "collection": "",
+        "products": [
+          "sleep-plus-collagen-cream",
+          "sleep-strips",
+          "sleep-support",
+          "sleep-well-gummies-adult"
+        ],
         "full_width": true,
-        "stack_products": true,
+        "stack_products": false,
         "show_progress_bar": false,
-        "products_count": 4,
+        "products_count": 6,
         "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
+        "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Explore Our Products",
+        "title": "Featured collection",
         "content": "",
         "link_url": "",
         "link_text": "View all",
         "background": "",
         "background_gradient": "",
-        "text_color": "#1b263b",
+        "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
         "product_card_background": "",
@@ -108,10 +174,48 @@
         "heading_color": "#1b263b",
         "heading_gradient": ""
       }
+    },
+    "impact_text_UhRYrH": {
+      "type": "impact-text",
+      "blocks": {
+        "item_JMaNVe": {
+          "type": "item",
+          "settings": {
+            "title": "Together we fight cancer",
+            "subheading": "$3 from every order goes to the American Cancer Society.",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_JMaNVe"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
-    "featured_collection_YxbyUg",
-    "image_link_blocks_TnUNeP"
+    "slideshow_nC4wEJ",
+    "featured_collection_QY9n6F",
+    "image_link_blocks_TnUNeP",
+    "impact_text_UhRYrH"
   ]
 }
