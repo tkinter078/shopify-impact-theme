@@ -190,7 +190,7 @@
             "style": "fill",
             "size": "lg",
             "text": "Bestel hier",
-            "url": "",
+            "url": "shopify://collections/all",
             "background": "",
             "text_color": ""
           }
