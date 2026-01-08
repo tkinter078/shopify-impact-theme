@@ -15,34 +15,15 @@
         "image_CbN6nx": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Ontwerp_zonder_titel.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide 1",
+            "subheading": "",
+            "title": "Bereik de Beste Versie van Jezelf.",
             "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
-        "image_xcyccb": {
-          "type": "image",
-          "settings": {
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide 2",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
+            "button_text": "Shop nu en GROEI",
+            "button_link": "shopify://collections/all",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
@@ -54,8 +35,7 @@
         }
       },
       "block_order": [
-        "image_CbN6nx",
-        "image_xcyccb"
+        "image_CbN6nx"
       ],
       "name": "Slideshow",
       "settings": {
@@ -66,8 +46,41 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
+      }
+    },
+    "rich_text_yLMDEd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6kttKw": {
+          "type": "heading",
+          "settings": {
+            "text": "Stop met zeuren, start met groeien.",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_Q4mVbk": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Veel jongeren trainen hard maar zien geen resultaat omdat hun voeding niet op orde is. Wij bieden de brandstof die je nodig hebt voor maximale spieropbouw en razendsnel herstel, zonder onnodige troep of dure marketingpraatjes.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6kttKw",
+        "richtext_Q4mVbk"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "featured_collection_QY9n6F": {
@@ -75,12 +88,7 @@
       "name": "Featured collection",
       "settings": {
         "collection": "",
-        "products": [
-          "sleep-plus-collagen-cream",
-          "sleep-strips",
-          "sleep-support",
-          "sleep-well-gummies-adult"
-        ],
+        "products": [],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
@@ -88,7 +96,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Featured collection",
+        "title": "Bestsellers",
         "content": "",
         "link_url": "",
         "link_text": "View all",
@@ -101,78 +109,237 @@
         "product_card_text_color": ""
       }
     },
-    "image_link_blocks_TnUNeP": {
-      "type": "image-link-blocks",
+    "multi_column_EDeeRx": {
+      "type": "multi-column",
       "blocks": {
-        "item_CJCHnz": {
+        "item_TKFiat": {
           "type": "item",
           "settings": {
-            "stretch_image": true,
-            "link_text": "Yoga Flows",
-            "link_url": "https://www.acefitness.org/resources/pros/expert-articles/",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "column_size": "3",
+            "title": "100% Rechtenvrije & veilige ingrediënten.",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "item_Q9rJcU": {
+        "item_yhTpWF": {
           "type": "item",
           "settings": {
-            "stretch_image": true,
-            "link_text": "Role Of Nutrition",
-            "link_url": "https://artofhealthyliving.com/the-role-of-nutrition-in-preventing-age-related-conditions/",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "column_size": "3",
+            "title": "Speciaal samengesteld voor de jonge atleet.",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "item_MBNBFn": {
+        "item_7mAmt4": {
           "type": "item",
           "settings": {
-            "stretch_image": true,
-            "link_text": "Matcha Tea",
-            "link_url": "https://artofhealthyliving.com/the-ancient-art-and-modern-science-behind-matcha-tea/",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_cqdN9Q": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "Wellness Benefits ",
-            "link_url": "https://artofhealthyliving.com/what-are-the-5-holistic-wellness-benefits-of-tantric-massage-in-london/",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "column_size": "3",
+            "title": "Vandaag besteld, morgen in de gym.",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "item_CJCHnz",
-        "item_Q9rJcU",
-        "item_MBNBFn",
-        "item_cqdN9Q"
+        "item_TKFiat",
+        "item_yhTpWF",
+        "item_7mAmt4"
       ],
-      "name": "Image link blocks",
+      "name": "Multi-column",
       "settings": {
-        "full_width": false,
-        "block_size": "large",
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "About",
+        "title": "Waarom Wij?",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_BnRwWP": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_43yy4X": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_HTRxAq": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text overlay",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_Hmmiyn": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "button_pVbABH": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Bestel hier",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_43yy4X",
+        "heading_HTRxAq",
+        "richtext_Hmmiyn",
+        "button_pVbABH"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "testimonials_fiPKGj": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_thFgr7": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Jasper (22 jaar)",
+            "title": "Spierbouwennnn!!!",
+            "content": "<p>\"Eindelijk een supplementenlijn die niet alleen maar loze beloftes doet. Sinds ik de Whey Proteïne gebruik na mijn trainingen, merk ik dat mijn spierherstel veel sneller gaat. Ideaal voor als je serieus wilt groeien in de gym!\" </p>"
+          }
+        },
+        "testimonial_G3QFjC": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Sanne (20 jaar)",
+            "title": "FOCUS",
+            "content": "<p>\"De pre-workout geeft me precies de focus die ik nodig heb voor mijn avondsessies na de studie. Geen crash achteraf, maar gewoon een goede pomp. Echt een aanrader voor jongeren die alles uit hun workout willen halen.\"</p>"
+          }
+        },
+        "testimonial_M4FhCJ": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Mo (24 jaar)",
+            "title": "Kwaliteit is aanwezig",
+            "content": "<p>\"Als student kijk ik erg naar de prijs, maar ik wil wel kwaliteit. Deze supplementen zijn betaalbaar en je merkt echt het verschil in kracht tijdens het bankdrukken. Mijn nieuwe vaste adres!\"</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_thFgr7",
+        "testimonial_G3QFjC",
+        "testimonial_M4FhCJ"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
         "subheading": "",
-        "title": "The Daily Vitamin",
-        "content": "<p>Get a daily serving of health hacks, self-care practices, and frequentlyasked health questions on our blog.</p>",
+        "title": "Onze Klanten",
+        "content": "",
         "link_url": "",
         "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "heading_color": "#1b263b",
-        "heading_gradient": ""
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "text_with_icons_mKUC8q": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_7nGyyB": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Gratis Verzending",
+            "content": "<p>Binnen 2 werkdagen geleverd</p>"
+          }
+        },
+        "item_UrCJCT": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Klanten Service",
+            "content": "<p>Wij zijn heel de week beschikbaar</p>"
+          }
+        },
+        "item_P4qcmy": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Veilig Betalen",
+            "content": "<p>Betaal veilig met IDEAL of Apple Pay</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_7nGyyB",
+        "item_UrCJCT",
+        "item_P4qcmy"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "impact_text_UhRYrH": {
@@ -181,8 +348,8 @@
         "item_JMaNVe": {
           "type": "item",
           "settings": {
-            "title": "Together we fight cancer",
-            "subheading": "$3 from every order goes to the American Cancer Society.",
+            "title": "Samen Tegen Kanker",
+            "subheading": "$3 Van elke bestelling gaat naar het KWF",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -214,8 +381,12 @@
   },
   "order": [
     "slideshow_nC4wEJ",
+    "rich_text_yLMDEd",
     "featured_collection_QY9n6F",
-    "image_link_blocks_TnUNeP",
+    "multi_column_EDeeRx",
+    "image_with_text_overlay_BnRwWP",
+    "testimonials_fiPKGj",
+    "text_with_icons_mKUC8q",
     "impact_text_UhRYrH"
   ]
 }

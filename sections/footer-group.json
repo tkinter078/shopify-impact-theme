@@ -17,22 +17,22 @@
         "item_6DzeRg": {
           "type": "item",
           "settings": {
-            "title": "Are SwiftSupple Vitamins FDA approved?",
-            "content": "<p>Are SwiftSupple vitamins FDA approved?</p><p>By law, the FDA does not approve dietary supplements. But, the FDA does regulate both dietary supplements and dietary ingredients. At SwiftSupple, we follow what the FDA established for dietary supplements in 2007 called \"current Good Manufacturing Practice\" (cGMP) regulations requiring that manufacturers evaluate their products through testing identity, purity, strength, and composition. We not only tested for stability with our manufacturers, but also did 3rd-party testing for potency of active ingredients, adulterants like heavy metals and microbes, allergens, rancidity and other unwanted contaminants.</p>"
+            "title": "is KingsterNutrition veilig",
+            "content": "<p>Ja</p>"
           }
         },
         "item_WxAxbJ": {
           "type": "item",
           "settings": {
-            "title": "Shipping and Order Status",
-            "content": "<p><strong>Is my credit card information secure?</strong></p><ul><li>Yes, all credit cards are secured by Shopify, Paypal, or Amazon.</li></ul><p><strong>Where do you ship?</strong></p><ul><li>Currently only shipping within the USA, but we're going global soon. Hang tight!</li></ul><p><strong>How much does shipping cost?</strong></p><ul><li>Shipping is <strong>free</strong> for subscriptions! For all other orders, shipping charges vary per location. You'll see your individual shipping costs calculated at checkout.<br/></li></ul><p><strong>How do I track my package?</strong></p><ul><li>Need to know if your vitamins are on the way? Tracking information should have been sent via email upon placing your order. If not, shoot us an email at hello@opositiv.com</li></ul><p><strong>I didn't receive a shipping or order confirmation, help!</strong></p><ul><li>Email us at hello@opositiv.com. We'll figure it out for ya!</li></ul>"
+            "title": "Verzending en retouren",
+            "content": "<h4>📦 Verzending & Levering</h4><p>Wij doen ons best om je bestelling zo snel mogelijk bij je te bezorgen.</p><ul><li><strong>Levertijd:</strong> Op werkdagen vóór [Tijdstip, bijv. 22:00] besteld, is <strong>morgen in huis</strong>.</li><li><strong>Verzendkosten:</strong> * Gratis verzending bij bestellingen boven de €[Bedrag, bijv. 50,-].Voor bestellingen onder dit bedrag rekenen wij €[Bedrag, bijv. 4,95] verzendkosten.</li><li><strong>Vervoerders:</strong> Wij verzenden via [bijv. PostNL, DHL of Bpost]. Je ontvangt een Track & Trace code zodra je pakket ons magazijn verlaat.</li></ul><h4>🔄 Retourneren</h4><p>Niet helemaal tevreden? Geen probleem. Je hebt het recht om je bestelling tot <strong>14 dagen na ontvangst</strong> zonder opgave van reden te annuleren.</p>"
           }
         },
         "item_UrX8Qd": {
           "type": "item",
           "settings": {
-            "title": "Can I return my Swiftsupple vitamins?",
-            "content": "<p>Yes! We offer returns on unopened products within <strong>30 days</strong> of delivery. If you’re not satisfied, we’re here to help make it right.</p><p><strong>What are the return conditions?</strong></p><p>To be eligible for a return:</p><ul><li>unused and in its original packaging<br/></li><li>30 days of receiving your order<br/></li></ul><p><strong>How do I start a return?</strong></p><p>Simply email us at <a><strong>support@swiftsupple.com</strong></a> with:</p><ul><li>order number<br/></li><li>reason for return<br/></li></ul><p>We'll reply within 1–2 business days with the next steps.</p>"
+            "title": "Bestellen & Betalen",
+            "content": "<p><strong>Welke betaalmethoden accepteren jullie?</strong><br/>Wij accepteren iDEAL, Bancontact, Creditcard (Visa/Mastercard) en [eventueel achteraf betalen, bijv. Klarna].</p><p><strong>Kan ik mijn bestelling nog wijzigen of annuleren?</strong><br/>Omdat we bestellingen snel verwerken, kan dit vaak alleen in het eerste uur na bestelling. Neem direct contact op met onze klantenservice.</p>"
           }
         }
       },
@@ -45,11 +45,11 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Frequently Asked Questions",
+        "title": "FAQ",
         "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "Onze klanten service is bereikbaar van 09:00 - 17:00",
+        "answer_time": "Gemmidelde antwoord duurt 1 uur",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
@@ -70,14 +70,14 @@
         "links_9ADRFm": {
           "type": "links",
           "settings": {
-            "menu": "footer",
+            "menu": "main-menu",
             "show_menu_title": true
           }
         },
         "links_rHVQzL": {
           "type": "links",
           "settings": {
-            "menu": "support",
+            "menu": "",
             "show_menu_title": true
           }
         },
@@ -86,7 +86,7 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h5",
-            "title": "Keep in Touch GET EXCLUSIVE OFFERS",
+            "title": "GET EXCLUSIVE OFFERS",
             "content": ""
           }
         },
@@ -94,7 +94,7 @@
           "type": "text",
           "settings": {
             "title": "",
-            "content": "<h3>COPYRIGHT ©2025O SwiftSupple, INC.</h3><p>*These statements have not been evaluated by the Food andDrug Administration. This product is not intended to diagnose,treat, cure or prevent any disease. The views and nutritionaladvice expressed by SwiftSupple, Inc. are not intended to be a substitute for conventional medical service. Individualresults may vary.<br/><br/></p>",
+            "content": "<h3>COPYRIGHT ©2025O KingsterNutrition, INC.<br/></h3>",
             "enable_follow_on_shop": false
           }
         }
