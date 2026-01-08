@@ -18,9 +18,9 @@
         "show_only_on_index": true,
         "show_only_for_visitors": true,
         "show_only_once": true,
-        "title": "Signup for our newsletter",
-        "button_text": "Subscribe",
-        "subtext": "Describe what your customers will receive when subscribing to your newsletter."
+        "title": "Meld je aan voor exclusieve korting",
+        "button_text": "aanmelden",
+        "subtext": ""
       }
     },
     "privacy-banner": {
