@@ -14,6 +14,7 @@
       "blocks": {
         "liquid_hcXWQw": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<div class=\"happy-customersV2\">\n    <div class=\"avatarsV2\">\n        <img src=\"https://img.freepik.com/free-photo/stylish-african-american-woman-smiling_23-2148770405.jpg\" alt=\"Customer 1\" class=\"avatarV2\" />\n        <img src=\"https://thumbs.dreamstime.com/b/beautiful-african-american-woman-relaxing-outside-happy-middle-aged-smiling-46298787.jpg\" alt=\"Customer 2\" class=\"avatarV2\" />\n        <img src=\"https://media.istockphoto.com/id/1320651997/photo/young-woman-close-up-isolated-studio-portrait.jpg?s=612x612&w=0&k=20&c=lV6pxz-DknISGT2jjiSvUmSaw0hpMDf-dBpT8HTSAUI=\" alt=\"Customer 3\" class=\"avatarV2\" />\n    </div>\n    <span class=\"textV2\">\n<span style = \"font-weight: 900;\">Michelle</span>\n    <span class=\"verifiedV2\">\n      <img\n        src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/800px-Twitter_Verified_Badge.svg.png\"\n        alt=\"verified badge\"\n        class=\"verifiedV2\">\n    </span> \n   <span>and <strong>758</strong> people purchased</span>\n</span>\n</div>\n\n<style>\n    .happy-customersV2 {\n        display: flex;\n        align-items: center;\n        background-color: #ffffff;\n        border-radius: 8px;\n        padding: 5px 15px;\n        font-family: Roboto, sans-serif !important;\n        font-size: 12px;\n        color: #000;\n        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);\n    }\n\n    .avatarsV2 {\n        display: flex;\n        margin-right: 10px;\n    }\n\n    .avatarV2 {\n        width: 22px;\n        height: 22px;\n        border-radius: 50%;\n        border: 2px solid white;\n        margin-left: -7px;\n        object-fit: cover;\n    }\n\n.textV2 {\n    font-weight: normal;\n    font-size: 12px;\n    color: #000;\n    line-height: 0px;\n    display: flex;\n    align-items: center;\n    gap: 3px;\n}\n\n    .textV2 strong {\n        font-weight: 800;\n        font-family: Roboto, sans-serif;\n    }\n\n    .verifiedV2 {\n        vertical-align: middle;\n        height: 13px;\n        width: 13px;\n    }\n</style>"
           }
@@ -36,6 +37,7 @@
         },
         "liquid_iDCVMF": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <link rel=\"stylesheet\" href=\"styles.css\" />\n    <title>Shipping & Returns</title>\n    <style>\n              .info-container-v5 {\n                  display: flex;\n                  flex-direction: column;\n                  align-items: flex-start;\n                  gap: 5px;\n      font-size:13px;\n      font-weight: 500;\n      color: #474747;\n\n              }\n\n              .info-item-v5 {\n                  display: flex;\n                  align-items: center;\n                  gap: 10px;\n              }\n\n              .info-item span {\n                  font-size: 14px;\n                  color: #474747;\n              }\n    </style>\n  </head>\n  <body>\n    <div class=\"info-container-v5\">\n      <div class=\"info-item-v5\">\n        <svg\n          xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n          xmlns=\"http://www.w3.org/2000/svg\"\n          xmlns:xlink=\"http://www.w3.org/1999/xlink\"\n          width=\"16\"\n          fill=\"#474747\"\n          version=\"1.1\"\n          id=\"Layer_1\"\n          x=\"0px\"\n          y=\"0px\"\n          viewBox=\"0 0 24 24\"\n          style=\"enable-background:new 0 0 24 24;\"\n          xml:space=\"preserve\"\n        >\n          <metadata>\n            <dc:creator>Davooda</dc:creator>\n            <dc:relation>https://davooda.com</dc:relation>\n          </metadata>\n\n          <style type=\"text/css\">\n            .st0{fill:none;stroke:#474747;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}\n            .st1{fill:none;stroke:#474747;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}\n            .st2{fill:none;stroke:#474747;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}\n            .st3{fill:#474747;}\n            .st4{fill:#FFFFFF;stroke:#474747;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}\n            .st5{fill:none;stroke:#474747;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}\n            .st6{fill:none;stroke:#474747;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}\n            .st7{fill:#474747;}\n            .st8{fill:none;stroke:#474747;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}\n          </style>\n          <g>\n            <path\n              class=\"st0\"\n              d=\"M6,5h9v2l3.7,0.8c0.9,0.2,1.7,0.8,2.1,1.7l1.8,4c0.2,0.4,0.3,0.8,0.3,1.3v1.7V18h-3\"\n            />\n            <line class=\"st0\" x1=\"5\" y1=\"13\" x2=\"2\" y2=\"13\" />\n          </g>\n          <line class=\"st0\" x1=\"15\" y1=\"18\" x2=\"9\" y2=\"18\" />\n          <circle class=\"st0\" cx=\"6.5\" cy=\"18.5\" r=\"2.5\" />\n          <circle class=\"st0\" cx=\"17.5\" cy=\"18.5\" r=\"2.5\" />\n          <polyline class=\"st0\" points=\"15,7 15,12 15,14 \" />\n          <line class=\"st0\" x1=\"1\" y1=\"9\" x2=\"7\" y2=\"9\" />\n          <line class=\"st0\" x1=\"4\" y1=\"19\" x2=\"3\" y2=\"19\" />\n        </svg>\n        <span>Official USPS Partner</span>\n      </div>\n      <div class=\"info-item-v5\">\n        <svg\n          xmlns=\"http://www.w3.org/2000/svg\"\n          xmlns:xlink=\"http://www.w3.org/1999/xlink\"\n          width=\"16\"\n          version=\"1.1\"\n          id=\"Capa_1\"\n          viewBox=\"0 0 244.948 244.948\"\n          xml:space=\"preserve\"\n        >\n          <g>\n            <g>\n              <path\n                style=\"fill:#474747;\"\n                d=\"M122.474,0C54.948,0,0.008,54.951,0.008,122.477s54.94,122.471,122.466,122.471    S244.94,189.997,244.94,122.471S190,0,122.474,0z M122.474,222.213c-55.005,0-99.752-44.742-99.752-99.742    c0-55.011,44.747-99.752,99.752-99.752s99.752,44.742,99.752,99.752C222.221,177.477,177.479,222.213,122.474,222.213z\"\n              />\n              <g>\n                <path\n                  style=\"fill:#474747;\"\n                  d=\"M113.739,180.659c-6.092-0.228-11.438-0.881-16.023-1.958c-4.596-1.093-8.175-2.35-10.742-3.758     l6.255-18.324c1.92,1.175,4.618,2.295,8.088,3.361c3.47,1.061,7.615,1.822,12.423,2.252v-32.547     c-3.312-1.485-6.598-3.144-9.856-4.966c-3.258-1.817-6.168-3.998-8.735-6.57c-2.567-2.562-4.629-5.624-6.173-9.208     c-1.545-3.584-2.322-7.821-2.322-12.744c0-9.192,2.431-16.323,7.294-21.403c4.857-5.069,11.46-8.354,19.793-9.85V50.344h16.671     v13.951c4.699,0.31,8.817,0.946,12.341,1.909c3.525,0.946,6.783,2.067,9.774,3.329l-5.771,17.672     c-1.817-0.848-4.112-1.702-6.891-2.562c-2.779-0.848-5.929-1.485-9.459-1.92v30.122c3.312,1.501,6.652,3.182,10.019,5.047     c3.361,1.882,6.353,4.096,8.974,6.652c2.616,2.578,4.754,5.586,6.413,9.067c1.653,3.481,2.486,7.604,2.486,12.417     c0,9.839-2.486,17.497-7.457,23.002c-4.966,5.504-11.776,9.045-20.429,10.644v14.914h-16.671L113.739,180.659L113.739,180.659z      M107.484,94.341c0,3.225,1.251,5.918,3.764,8.055c2.513,2.148,5.64,4.15,9.382,5.978v-26.14c-5.026,0.228-8.48,1.458-10.34,3.72     C108.42,88.205,107.484,91.006,107.484,94.341z M137.459,148.274c0-3.389-1.36-6.162-4.085-8.316     c-2.725-2.159-6.01-4.145-9.861-5.945v28.218c4.705-0.538,8.202-2.012,10.503-4.438     C136.311,155.361,137.459,152.19,137.459,148.274z\"\n                />\n              </g>\n            </g>\n          </g>\n        </svg>\n        <span>30 Day Free Returns</span>\n      </div>\n      <div class=\"info-item-v5\">\n        <svg\n          xmlns=\"http://www.w3.org/2000/svg\"\n          fill=\"474747\"\n          width=\"17\"\n          viewBox=\"0 0 24 24\"\n        >\n          <path\n            fill-rule=\"evenodd\"\n            d=\"M3.5 8a5.5 5.5 0 118.596 4.547 9.005 9.005 0 015.9 8.18.75.75 0 01-1.5.045 7.5 7.5 0 00-14.993 0 .75.75 0 01-1.499-.044 9.005 9.005 0 015.9-8.181A5.494 5.494 0 013.5 8zM9 4a4 4 0 100 8 4 4 0 000-8z\"\n          />\n          <path\n            d=\"M17.29 8c-.148 0-.292.01-.434.03a.75.75 0 11-.212-1.484 4.53 4.53 0 013.38 8.097 6.69 6.69 0 013.956 6.107.75.75 0 01-1.5 0 5.193 5.193 0 00-3.696-4.972l-.534-.16v-1.676l.41-.209A3.03 3.03 0 0017.29 8z\"\n          />\n        </svg>\n        <span>10.000+ Positive Customers Worldwide</span>\n      </div>\n    </div>\n  </body>\n</html>\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Limited Stock Banner</title>\n    <style>\n.limited-stock-container {\n    display: flex;\n    align-items: center;\n    font-size: 14px;\n    color: #282828;\n    background-color: #fff;\n    line-height: 22px;\n}\n        .limited-stock-icon {\n            width: 18px;\n            height: 18px;\n            margin-right: 8px;\n        }\n\n        .limited-stock-text1 {\n            font-weight: bold;\n        }\n\n        .limited-stock-highlight {\n            color: #d74f33;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"limited-stock-container\">\n\n <div class=\"dot\"><span style=\"visibility: hidden;\">.</span></div>"
           }
@@ -102,7 +104,6 @@
         "testimonial_PwMt6i": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/1.png",
             "round_avatar": false,
             "show_rating": true,
             "rating": 4,
@@ -114,7 +115,6 @@
         "testimonial_Kj8JtD": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/1749041912859-generated-label-image-0.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -126,7 +126,6 @@
         "testimonial_f6ajRd": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/1748968912789-generated-label-image-0.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -138,7 +137,6 @@
         "testimonial_QiXamR": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/1.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
@@ -150,7 +148,6 @@
         "testimonial_GPtUYW": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/1748968524524-generated-label-image-2.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
@@ -162,7 +159,6 @@
         "testimonial_NcVETL": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/1749042452302-generated-label-image-5.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
