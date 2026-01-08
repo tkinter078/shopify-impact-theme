@@ -98,90 +98,54 @@
         "input_text_color": ""
       }
     },
-    "testimonials_3NCTz9": {
+    "testimonials_qgizVD": {
       "type": "testimonials",
       "blocks": {
-        "testimonial_PwMt6i": {
+        "testimonial_X73LDe": {
           "type": "testimonial",
           "settings": {
-            "round_avatar": false,
+            "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "– Maya, 28",
-            "title": "\"Part of my bedtime ritual now\"📍 Brooklyn, NY",
-            "content": "<p>As someone who works in tech and can't shut off her brain at night, Swiftsupple’s <strong>Sleep Gummies</strong> have been a game-changer. I take one while doing my skincare and reading a few pages before bed. It helps me wind down <em>without</em> feeling like I took anything heavy.</p>"
+            "author": "Jasper (22 jaar)",
+            "title": "Spierbouwennnn!!!",
+            "content": "<p>\"Eindelijk een supplementenlijn die niet alleen maar loze beloftes doet. Sinds ik de Whey Proteïne gebruik na mijn trainingen, merk ik dat mijn spierherstel veel sneller gaat. Ideaal voor als je serieus wilt groeien in de gym!\" </p>"
           }
         },
-        "testimonial_Kj8JtD": {
+        "testimonial_hTgNnm": {
           "type": "testimonial",
           "settings": {
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "– Olivia, 27",
-            "title": "\"A treat for my skin and soul\"📍 Austin, TX",
-            "content": "<p>I found Swiftsupple on TikTok and got the <strong>Glow Clarity</strong> during a self-care binge. No regrets. My skin looks healthier, and I actually <em>enjoy</em> taking my vitamins now. It fits so seamlessly into my routine, and I feel like I’m doing something good for myself every day. 10/10 would repurchase.</p>"
+            "author": "Sanne (20 jaar)",
+            "title": "FOCUS",
+            "content": "<p>\"De pre-workout geeft me precies de focus die ik nodig heb voor mijn avondsessies na de studie. Geen crash achteraf, maar gewoon een goede pomp. Echt een aanrader voor jongeren die alles uit hun workout willen halen.\"</p>"
           }
         },
-        "testimonial_f6ajRd": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "– Taylor, 29",
-            "title": "\"Mental clarity without the crash\"📍 Los Angeles, CA",
-            "content": "<p>I’m constantly juggling projects and meetings, so I need something to keep me focused without making me anxious. Swiftsupple’s <strong>BALM+</strong> does exactly that. I feel grounded, not wired.</p>"
-          }
-        },
-        "testimonial_QiXamR": {
+        "testimonial_nnGRb7": {
           "type": "testimonial",
           "settings": {
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "– Jordan, 30",
-            "title": "\"No more overthinking at night\"📍 Chicago, IL",
-            "content": "<p>My mind used to race as soon as I got into bed. I didn’t want to take melatonin every night, so I tried Swiftsupple. The <strong>Sleep Gummies</strong> are super nice, taste great, and genuinely help me drift off.</p>"
-          }
-        },
-        "testimonial_GPtUYW": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "– Chloe, 28",
-            "title": "\"Stylish and effective wellness\"📍 San Francisco, CA",
-            "content": "<p>Swiftsupple isn’t just another supplement brand – it <em>feels</em> like a lifestyle. I found them through an influencer’s ‘Sunday reset’ reel and instantly added to cart. I’ve been using the <strong>BALM Series</strong> and noticed I’m less irritable and more balanced during the day.</p>"
-          }
-        },
-        "testimonial_NcVETL": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "– Harper, 26",
-            "title": "\"Minimal effort, maximum impact\"📍 Seattle, WA",
-            "content": "<p>I love when self-care doesn’t feel like a chore. With Swiftsupple, it’s one gummie a day, and that’s it. No pills, no complicated regimen. I have a little shelf with <strong>Snooze, Glow, and Balm</strong>. And pick based on my mood. Also, shipping was fast, and the unboxing experience was <em>chef’s kiss</em>.</p>"
+            "author": "Mo (24 jaar)",
+            "title": "Kwaliteit is aanwezig",
+            "content": "<p>\"Als student kijk ik erg naar de prijs, maar ik wil wel kwaliteit. Deze supplementen zijn betaalbaar en je merkt echt het verschil in kracht tijdens het bankdrukken. Mijn nieuwe vaste adres!\"</p>"
           }
         }
       },
       "block_order": [
-        "testimonial_PwMt6i",
-        "testimonial_Kj8JtD",
-        "testimonial_f6ajRd",
-        "testimonial_QiXamR",
-        "testimonial_GPtUYW",
-        "testimonial_NcVETL"
+        "testimonial_X73LDe",
+        "testimonial_hTgNnm",
+        "testimonial_nnGRb7"
       ],
       "name": "Testimonials",
       "settings": {
         "full_width": true,
-        "stack_testimonials": false,
+        "stack_testimonials": true,
         "subheading": "",
-        "title": "Over 10,000 Positive Reviews",
+        "title": "Onze Klanten",
         "content": "",
         "link_url": "",
         "link_text": "",
@@ -199,7 +163,13 @@
       "name": "Related products",
       "settings": {
         "recommendations_count": 6,
-        "products": [],
+        "products": [
+          "kingster-nutrition-pre-workout-focus-copy",
+          "kingster-nutrition-creatine-monohydraat-100-puur-copy",
+          "kingster-nutrition-multi-vitamin-gym-pack-copy",
+          "kingster-nutrition-pure-whey-protein-copy",
+          "kingster-nutrition-pure-whey-protein"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
@@ -220,7 +190,7 @@
   },
   "order": [
     "main",
-    "testimonials_3NCTz9",
+    "testimonials_qgizVD",
     "related_products_79JqHJ"
   ]
 }
