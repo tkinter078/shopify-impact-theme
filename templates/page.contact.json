@@ -16,26 +16,6 @@
         "content_width": "80ch"
       }
     },
-    "contact": {
-      "type": "contact",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Met vragen stuur een mail!",
-        "content": "",
-        "text_position": "center",
-        "contact_form_size": "large",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "contact_background": "",
-        "contact_text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "rich_text_tqLzcH": {
       "type": "rich-text",
       "blocks": {
@@ -129,12 +109,32 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "contact": {
+      "type": "contact",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Met vragen stuur een mail!",
+        "content": "",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
     "main",
-    "contact",
     "rich_text_tqLzcH",
-    "text_with_icons_iQBAPd"
+    "text_with_icons_iQBAPd",
+    "contact"
   ]
 }
