@@ -171,23 +171,17 @@
     "image_with_text_overlay_BnRwWP": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "subheading_43yy4X": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_HTRxAq": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "Jouw Lifestyle, Jouw Resultaat",
             "heading_tag": "h1"
           }
         },
         "richtext_Hmmiyn": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>\"Sporten is voor jou waarschijnlijk meer dan alleen een uurtje in de gym staan; het is een lifestyle. Tussen je 18e en 25e is je lichaam in de krachtigste fase om spiermassa op te bouwen, maar dat gebeurt niet alleen tijdens het tillen van gewichten. De echte groei vindt plaats tijdens je herstel.</p><p></p><p>Zonder de juiste eiwitten en vitamines raakt je lichaam uitgeput, wat kan leiden tot blessures of een plateau in je progressie. Onze supplementen zijn er niet om je training te vervangen, maar om deze te <strong>optimaliseren</strong>. Door je lichaam direct na je workout te voorzien van de juiste voedingsstoffen, verkort je de hersteltijd en maximaliseer je de eiwit-synthese. Zo ben je sneller klaar voor je volgende PR en haal je het meeste uit elke sessie.\"</p>"
           }
         },
         "button_pVbABH": {
@@ -203,7 +197,6 @@
         }
       },
       "block_order": [
-        "subheading_43yy4X",
         "heading_HTRxAq",
         "richtext_Hmmiyn",
         "button_pVbABH"
@@ -214,8 +207,9 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Sterker_elke_dag.png",
         "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "desktop_text_position": "sm:place-self-center-start sm:text-start",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
