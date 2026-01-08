@@ -20,9 +20,9 @@
       "type": "contact",
       "settings": {
         "full_width": true,
-        "subheading": "24/7 Customer Support",
-        "title": "Do you have any questions?",
-        "content": "<p>Please send us a message or mail us at: info@barynbags.com</p>",
+        "subheading": "",
+        "title": "Met vragen stuur een mail!",
+        "content": "",
         "text_position": "center",
         "contact_form_size": "large",
         "background": "",
@@ -35,10 +35,106 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "rich_text_tqLzcH": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_i8z9zj": {
+          "type": "heading",
+          "settings": {
+            "text": "Heb je een vraag? Wij helpen je verder!",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_PbLJga": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Heb je hulp nodig bij het kiezen van de juiste supplementen voor jouw fitnessdoelen? Of heb je een vraag over je bestelling? Ons team staat klaar om al je vragen te beantwoorden. Speciaal voor jonge sporters tussen de 18 en 25 jaar bieden we persoonlijk advies, zodat je zeker weet dat je de juiste keuze maakt voor jouw lichaam en training.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_i8z9zj",
+        "richtext_PbLJga"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "text_with_icons_iQBAPd": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_7PzGqk": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "E-mail",
+            "content": "<p>info@kingsternutrition.nl</p>"
+          }
+        },
+        "item_hgyyKV": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Locatie",
+            "content": "<p>Heemstede, Nederland</p>"
+          }
+        },
+        "item_Hg9rxT": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Bereikbaarheid",
+            "content": "<p>Wij zijn beschikbaar van 09:00 - 17:00</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_7PzGqk",
+        "item_hgyyKV",
+        "item_Hg9rxT"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "main",
-    "contact"
+    "contact",
+    "rich_text_tqLzcH",
+    "text_with_icons_iQBAPd"
   ]
 }

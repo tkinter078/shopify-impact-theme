@@ -1,1 +1,124 @@
-{"sections":{"main":{"type":"main-page","settings":{}}},"order":["main"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "content_width": "100ch"
+      }
+    },
+    "rich_text_f7NzLp": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_F79kEi": {
+          "type": "subheading",
+          "settings": {
+            "text": "Advies voor Jongeren"
+          }
+        },
+        "heading_rwHe6G": {
+          "type": "heading",
+          "settings": {
+            "text": "Slimmer Trainen & Sneller Groeien: Advies voor de Jonge Atleet",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_thJ3KC": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>\"Als je tussen de 18 en 25 jaar bent, heeft je lichaam een enorm potentieel om spiermassa op te bouwen. Maar alleen hard trainen is niet genoeg. Om echt stappen te maken, moet je rekening houden met de drie pijlers van succes: training, voeding en rust. Veel beginners maken de fout om te veel te doen in de gym zonder hun lichaam de juiste bouwstoffen te geven. Hieronder leggen we uit hoe jij dit slimmer aanpakt.\"</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_F79kEi",
+        "heading_rwHe6G",
+        "richtext_thJ3KC"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_NAQLib": {
+      "type": "multi-column",
+      "blocks": {
+        "item_UmVLwF": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Focus op Progressieve Overload",
+            "heading_tag": "h4",
+            "content": "<p>Probeer elke training net iets zwaarder te gaan of een herhaling meer te doen. Dit is de enige manier om je spieren te dwingen te groeien.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_yxEncK": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Eiwitten zijn Essentieel",
+            "heading_tag": "h4",
+            "content": "<p>Je spieren hebben eiwitten nodig om te herstellen na een zware sessie. Streef naar ongeveer 1.8 tot 2 gram eiwit per kilo lichaamsgewicht.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_JFz7m6": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Onderschat Rust Niet",
+            "heading_tag": "h4",
+            "content": "<p>Je spieren groeien niet in de sportschool, maar wanneer je slaapt. Zorg voor minimaal 7-8 uur kwalitatieve slaap.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_UmVLwF",
+        "item_yxEncK",
+        "item_JFz7m6"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Drie Tips voor Maximaal Resultaat",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_f7NzLp",
+    "multi_column_NAQLib"
+  ]
+}
