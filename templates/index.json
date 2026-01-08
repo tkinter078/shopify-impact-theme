@@ -88,7 +88,11 @@
       "name": "Featured collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "kingster-nutrition-pre-workout-focus-copy",
+          "kingster-nutrition-creatine-monohydraat-100-puur-copy",
+          "kingster-nutrition-pure-whey-protein-copy"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
